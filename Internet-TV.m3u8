@@ -9,4 +9,13 @@ http://172.16.215.142/hls/4010.m3u8
 http://172.16.215.142/hls/4005.m3u8
 #EXTINF:-1 tvg-id="Ekattor TV"group-title="NEWS",Ekattor TV
 http://172.16.215.142/hls/4017.m3u8
-
+#EXTINF:-1 tvg-id="Channel I"group-title="NEWS",Channel I
+http://172.16.215.142/hls/4016.m3u8
+#EXTINF:-1 tvg-id="Nagorik TV"group-title="BANGLA",Nagorik TV
+http://172.16.215.142/hls/5007.m3u8
+#EXTINF:-1 tvg-id="Gazi TV"group-title="BANGLA",Gazi TV
+http://172.16.215.142/hls/5008.m3u8
+#EXTINF:-1 tvg-id="Inepedent TV"group-title="NEWS",Inepedent TV
+http://172.16.215.142/hls/4008.m3u8
+#EXTINF:-1 tvg-id="GREEN TV"group-title="SPORTS",GREEN TV
+http://172.16.215.142/hls/4055.m3u8
