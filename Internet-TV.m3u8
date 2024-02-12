@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="MOCCA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Makkah_logo.png"group-title="ISLAMIC",MOCCA TV
 http://172.16.215.142/hls/4112.m3u8
-#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png",SATV HD
-https://livess.jagobd.com.bd/live-orgin/satvoff5666.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="MADANI CHANNAL"group-title="ISLAMIC",MADANI CHANNAL
 http://172.16.215.142/hls/4029.m3u8
 #EXTINF:-1 tvg-id="SOMOY TV"group-title="NEWS",SOMOY TV
@@ -21,3 +19,95 @@ http://172.16.215.142/hls/5008.m3u8
 http://172.16.215.142/hls/4008.m3u8
 #EXTINF:-1 tvg-id="GREEN TV"group-title="SPORTS",GREEN TV
 http://172.16.215.142/hls/4055.m3u8
+#EXTINF:-1 tvg-id="Zee Bangal"group-title="BANGLA",Zee Bangal
+http://172.16.215.142/hls/5048.m3u8
+#EXTINF:-1 tvg-id="Zee Bangal Cinema"group-title="BANGLA",Zee Bangla Cinema
+http://172.16.215.142/hls/5050.m3u8
+#EXTINF:-1 tvg-id="Colours Bangla"group-title="BANGLA",Colours Bangla
+http://172.16.215.142/hls/5047.m3u8
+#EXTINF:-1 tvg-id="Colours Bangal Cinema"group-title="BANGLA",Colours Bangla Cinema
+http://172.16.215.142/hls/5033.m3u8
+#EXTINF:-1 tvg-id="Star Jalsha"group-title="BANGLA",Star Jalsha
+http://172.16.215.142/hls/5053.m3u8
+#EXTINF:-1 tvg-id="Jalsha Movies"group-title="BANGLA",Jalsha Movies
+http://172.16.215.142/hls/5054.m3u8
+#EXTINF:-1 tvg-id="SONY AAT"group-title="BANGLA",SONY AAT
+http://172.16.215.142/hls/5049.m3u8
+#EXTINF:-1 tvg-id="SUN Bangla"group-title="BANGLA",SUN Bangla
+http://172.16.215.142/hls/5051.m3u8
+#EXTINF:-1 tvg-id="ENTER-10"group-title="BANGLA",ENTER-10
+http://172.16.215.142/hls/4036.m3u8
+#EXTINF:-1 tvg-id="STAR MOVIES"group-title="ENGLISH-MOVIES",STAR MOVIES
+http://172.16.215.142/hls/5021.m3u8
+#EXTINF:-1 tvg-id="SONY PIX"group-title="ENGLISH-MOVIES",SONY PIX
+http://172.16.215.142/hls/5022.m3u8
+#EXTINF:-1 tvg-id="Movies Now-HD"group-title="ENGLISH-MOVIES",Movies Now-HD
+http://172.16.215.142/hls/5018.m3u8
+#EXTINF:-1 tvg-id="HBO"group-title="ENGLISH-MOVIES",HBO
+http://172.16.215.142/hls/5005.m3u8
+#EXTINF:-1 tvg-id="SONY MAX-HD"group-title="HINDI-MOVIES",SONY MAX-HD
+http://172.16.215.142/hls/5029.m3u8
+#EXTINF:-1 tvg-id="& Picture HD"group-title="HINDI-MOVIES",& Picture HD
+http://172.16.215.142/hls/5039.m3u8
+#EXTINF:-1 tvg-id="ZEE CINEMA HD"group-title="HINDI-MOVIES",ZEE CINEMA HD
+http://172.16.215.142/hls/5032.m3u8
+#EXTINF:-1 tvg-id="ZEE TV HD"group-title="HINDI-MOVIES",ZEE TV HD
+http://172.16.215.142/hls/5031.m3u8
+#EXTINF:-1 tvg-id="STAR GOLD"group-title="HINDI-MOVIES",STAR GOLD
+http://172.16.215.142/hls/5028.m3u8
+#EXTINF:-1 tvg-id="STAR Plus HD"group-title="HINDI-MOVIES",STAR Plus HD
+http://172.16.215.142/hls/5030.m3u8
+#EXTINF:-1 tvg-id="COLOURS Cineplex HD"group-title="HINDI-MOVIES",COLOURS Cineplex HD
+http://172.16.215.142/hls/5037.m3u8
+#EXTINF:-1 tvg-id="STAR GOLD"group-title="HINDI-MOVIES",STAR GOLD
+http://172.16.215.142/hls/5028.m3u8
+#EXTINF:-1 tvg-id="GOLDMINE"group-title="HINDI-MOVIES",GOLDMINE
+http://172.16.215.142/hls/4117.m3u8
+#EXTINF:-1 tvg-id="9xM"group-title="MUSIC",9xM
+http://172.16.215.142/hls/4122.m3u8
+#EXTINF:-1 tvg-id="Masti"group-title="MUSIC",Masti
+http://172.16.215.142/hls/4124.m3u8
+#EXTINF:-1 tvg-id="Sangeet Bangla"group-title="MUSIC",Sangeet Bangla
+http://172.16.215.142/hls/4120.m3u8
+#EXTINF:-1 tvg-id="Gan Bangla"group-title="MUSIC",Gan Bangla
+http://172.16.215.142/hls/4018.m3u8
+#EXTINF:-1 tvg-id="PTV Sports"group-title="SPORTS",PTV Sports
+http://172.16.215.142/hls/4151.m3u8
+#EXTINF:-1 tvg-id="Sports-18"group-title="SPORTS",Sports-18
+http://172.16.215.142/hls/5017.m3u8
+#EXTINF:-1 tvg-id="STAR SPORTS-1"group-title="SPORTS",STAR SPORTS-1
+http://172.16.215.142/hls/5052.m3u8
+#EXTINF:-1 tvg-id="STAR SPORTS-2"group-title="SPORTS",STAR SPORTS-2
+http://172.16.215.142/hls/5042.m3u8
+#EXTINF:-1 tvg-id="STAR SPORTS-3"group-title="SPORTS",STAR SPORTS-3
+http://172.16.215.142/hls/5019.m3u8
+#EXTINF:-1 tvg-id="STAR SPORTS Select-1"group-title="SPORTS",STAR SPORTS Select-1
+http://172.16.215.142/hls/5055.m3u8
+#EXTINF:-1 tvg-id="STAR SPORTS Select-2"group-title="SPORTS",STAR SPORTS Select-2
+http://172.16.215.142/hls/5043.m3u8
+#EXTINF:-1 tvg-id="SONY SPORTS-1"group-title="SPORTS",SONY SPORTS-1
+http://172.16.215.142/hls/5056.m3u8
+#EXTINF:-1 tvg-id="SONY SPORTS-2"group-title="SPORTS",SONY SPORTS-2
+http://172.16.215.142/hls/5044.m3u8
+#EXTINF:-1 tvg-id="SONY SPORTS-3"group-title="SPORTS",SONY SPORTS-3
+http://172.16.215.142/hls/5045.m3u8
+#EXTINF:-1 tvg-id="SONY SPORTS-4"group-title="SPORTS",SONY SPORTS-4
+http://172.16.215.142/hls/5020.m3u8
+#EXTINF:-1 tvg-id="NICK"group-title="CARTON",NICK
+http://172.16.215.142/hls/5024.m3u8
+#EXTINF:-1 tvg-id="SONIC"group-title="CARTON",SONIC
+http://172.16.215.142/hls/5041.m3u8
+#EXTINF:-1 tvg-id="SONY YAYI"group-title="CARTON",SONY YAYI
+http://172.16.215.142/hls/5023.m3u8
+#EXTINF:-1 tvg-id="Discovery HD"group-title="INFORMATIVE",Discovery HD
+http://172.16.215.142/hls/5026.m3u8
+#EXTINF:-1 tvg-id="Wild "group-title="INFORMATIVE",Wild
+http://172.16.215.142/hls/5027.m3u8
+#EXTINF:-1 tvg-id="BBC Earth"group-title="INFORMATIVE",BBC Earth
+http://172.16.215.142/hls/5038.m3u8
+#EXTINF:-1 tvg-id="Travel XP"group-title="INFORMATIVE",Travel XP
+http://172.16.215.142/hls/5046.m3u8
+#EXTINF:-1 tvg-id="National Geographic"group-title="INFORMATIVE",National Geographic
+http://172.16.215.142/hls/5036.m3u8
+#EXTINF:-1 tvg-id="Animal Planet"group-title="INFORMATIVE",Animal Planet
+http://172.16.215.142/hls/5025.m3u8
