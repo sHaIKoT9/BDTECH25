@@ -1,6 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="MOCCA TV"group-title="ISLAMIC",MOCCA TV
+#EXTINF:-1 tvg-id="MOCCA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Makkah_logo.png"group-title="ISLAMIC",MOCCA TV
 http://172.16.215.142/hls/4112.m3u8
+#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png",SATV HD
+https://livess.jagobd.com.bd/live-orgin/satvoff5666.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="MADANI CHANNAL"group-title="ISLAMIC",MADANI CHANNAL
 http://172.16.215.142/hls/4029.m3u8
 #EXTINF:-1 tvg-id="SOMOY TV"group-title="NEWS",SOMOY TV
