@@ -1,3 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="MOCCA TV"group-title="ISLAMIC",MOCCA TV
 http://172.16.215.142/hls/4112.m3u8
+#EXTINF:-1 tvg-id="MADANI CHANNAL"group-title="ISLAMIC",MADANI CHANNAL
+http://172.16.215.142/hls/4029.m3u8
+#EXTINF:-1 tvg-id="SOMOY TV"group-title="NEWS",SOMOY TV
+http://172.16.215.142/hls/4010.m3u8
+#EXTINF:-1 tvg-id="Jamuna TV"group-title="NEWS",Jamuna TV
+http://172.16.215.142/hls/4005.m3u8
+#EXTINF:-1 tvg-id="Ekattor TV"group-title="NEWS",Ekattor TV
+http://172.16.215.142/hls/4017.m3u8
+
