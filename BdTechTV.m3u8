@@ -5,29 +5,29 @@ http://172.16.215.142/hls/4112.m3u8
 http://172.16.215.142/hls/4029.m3u8
 #EXTINF:-1 tvg-id="SOMOY TV"tvg-logo="https://upload.wikimedia.org/wikipedia/bn/f/f6/%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg"group-title="BANGLA",SOMOY TV
 http://172.16.215.142/hls/4010.m3u8
-#EXTINF:-1 tvg-id="STAR বাংলা"group-title="BANGLA",STAR বাংলা
+#EXTINF:-1 tvg-id="STAR বাংলা"tvg-logo=""group-title="BANGLA",STAR বাংলা
 http://172.16.215.142/hls/5006.m3u8
-#EXTINF:-1 tvg-id="Jamuna TV"group-title="BANGLA",Jamuna TV
+#EXTINF:-1 tvg-id="Jamuna TV"tvg-logo=""group-title="BANGLA",Jamuna TV
 http://172.16.215.142/hls/4005.m3u8
-#EXTINF:-1 tvg-id="Ekattor TV"group-title="BANGLA",Ekattor TV
+#EXTINF:-1 tvg-id="Ekattor TV"tvg-logo=""group-title="BANGLA",Ekattor TV
 http://172.16.215.142/hls/4017.m3u8
-#EXTINF:-1 tvg-id="Channel I"group-title="BANGLA",Channel I
+#EXTINF:-1 tvg-id="Channel I"tvg-logo=""group-title="BANGLA",Channel I
 http://172.16.215.142/hls/4016.m3u8
-#EXTINF:-1 tvg-id="Nagorik TV"group-title="BANGLA",Nagorik TV
+#EXTINF:-1 tvg-id="Nagorik TV"tvg-logo=""group-title="BANGLA",Nagorik TV
 http://172.16.215.142/hls/5007.m3u8
-#EXTINF:-1 tvg-id="Gazi TV"group-title="BANGLA",Gazi TV
+#EXTINF:-1 tvg-id="Gazi TV"tvg-logo=""group-title="BANGLA",Gazi TV
 http://172.16.215.142/hls/5008.m3u8
-#EXTINF:-1 tvg-id="Inepedent TV"group-title="BANGLA",Inepedent TV
+#EXTINF:-1 tvg-id="Inepedent TV"tvg-logo=""group-title="BANGLA",Inepedent TV
 http://172.16.215.142/hls/4008.m3u8
-#EXTINF:-1 tvg-id="GREEN TV"group-title="BANGLA",GREEN TV
+#EXTINF:-1 tvg-id="GREEN TV"tvg-logo=""group-title="BANGLA",GREEN TV
 http://172.16.215.142/hls/4055.m3u8
-#EXTINF:-1 tvg-id="Zee Bangal"group-title="BANGLA",Zee Bangal
+#EXTINF:-1 tvg-id="Zee Bangal"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Zee_Bangla_logo.png"group-title="BANGLA",Zee Bangal
 http://172.16.215.142/hls/5048.m3u8
-#EXTINF:-1 tvg-id="Zee Bangal Cinema"group-title="BANGLA",Zee Bangla Cinema
+#EXTINF:-1 tvg-id="Zee Bangal Cinema"tvg-logo=""group-title="BANGLA",Zee Bangla Cinema
 http://172.16.215.142/hls/5050.m3u8
-#EXTINF:-1 tvg-id="Colours Bangla"group-title="BANGLA",Colours Bangla
+#EXTINF:-1 tvg-id="Colours Bangla"tvg-logo=""group-title="BANGLA",Colours Bangla
 http://172.16.215.142/hls/5047.m3u8
-#EXTINF:-1 tvg-id="Colours Bangal Cinema"group-title="BANGLA",Colours Bangla Cinema
+#EXTINF:-1 tvg-id="Colours Bangal Cinema"tvg-logo=""group-title="BANGLA",Colours Bangla Cinema
 http://172.16.215.142/hls/5033.m3u8
 #EXTINF:-1 tvg-id="Star Jalsha"group-title="BANGLA",Star Jalsha
 http://172.16.215.142/hls/5053.m3u8
