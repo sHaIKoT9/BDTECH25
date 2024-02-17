@@ -3,21 +3,23 @@
 http://172.16.215.142/hls/4112.m3u8
 #EXTINF:-1 tvg-id="MADANI CHANNAL"group-title="ISLAMIC",MADANI CHANNAL
 http://172.16.215.142/hls/4029.m3u8
-#EXTINF:-1 tvg-id="SOMOY TV"group-title="NEWS",SOMOY TV
+#EXTINF:-1 tvg-id="SOMOY TV"group-title="BANGLA",SOMOY TV
 http://172.16.215.142/hls/4010.m3u8
-#EXTINF:-1 tvg-id="Jamuna TV"group-title="NEWS",Jamuna TV
+#EXTINF:-1 tvg-id="STAR বাংলা"group-title="BANGLA",STAR বাংলা
+http://172.16.215.142/hls/5006.m3u8
+#EXTINF:-1 tvg-id="Jamuna TV"group-title="BANGLA",Jamuna TV
 http://172.16.215.142/hls/4005.m3u8
-#EXTINF:-1 tvg-id="Ekattor TV"group-title="NEWS",Ekattor TV
+#EXTINF:-1 tvg-id="Ekattor TV"group-title="BANGLA",Ekattor TV
 http://172.16.215.142/hls/4017.m3u8
-#EXTINF:-1 tvg-id="Channel I"group-title="NEWS",Channel I
+#EXTINF:-1 tvg-id="Channel I"group-title="BANGLA",Channel I
 http://172.16.215.142/hls/4016.m3u8
 #EXTINF:-1 tvg-id="Nagorik TV"group-title="BANGLA",Nagorik TV
 http://172.16.215.142/hls/5007.m3u8
 #EXTINF:-1 tvg-id="Gazi TV"group-title="BANGLA",Gazi TV
 http://172.16.215.142/hls/5008.m3u8
-#EXTINF:-1 tvg-id="Inepedent TV"group-title="NEWS",Inepedent TV
+#EXTINF:-1 tvg-id="Inepedent TV"group-title="BANGLA",Inepedent TV
 http://172.16.215.142/hls/4008.m3u8
-#EXTINF:-1 tvg-id="GREEN TV"group-title="SPORTS",GREEN TV
+#EXTINF:-1 tvg-id="GREEN TV"group-title="BANGLA",GREEN TV
 http://172.16.215.142/hls/4055.m3u8
 #EXTINF:-1 tvg-id="Zee Bangal"group-title="BANGLA",Zee Bangal
 http://172.16.215.142/hls/5048.m3u8
@@ -37,43 +39,45 @@ http://172.16.215.142/hls/5049.m3u8
 http://172.16.215.142/hls/5051.m3u8
 #EXTINF:-1 tvg-id="ENTER-10"group-title="BANGLA",ENTER-10
 http://172.16.215.142/hls/4036.m3u8
-#EXTINF:-1 tvg-id="STAR MOVIES"group-title="ENGLISH-MOVIES",STAR MOVIES
+#EXTINF:-1 tvg-id="STAR MOVIES"group-title="ENGLISH",STAR MOVIES
 http://172.16.215.142/hls/5021.m3u8
-#EXTINF:-1 tvg-id="SONY PIX"group-title="ENGLISH-MOVIES",SONY PIX
+#EXTINF:-1 tvg-id="SONY PIX"group-title="ENGLISH",SONY PIX
 http://172.16.215.142/hls/5022.m3u8
-#EXTINF:-1 tvg-id="Movies Now-HD"group-title="ENGLISH-MOVIES",Movies Now-HD
+#EXTINF:-1 tvg-id="Movies Now-HD"group-title="ENGLISH",Movies Now-HD
 http://172.16.215.142/hls/5018.m3u8
-#EXTINF:-1 tvg-id="HBO"group-title="ENGLISH-MOVIES",HBO
+#EXTINF:-1 tvg-id="HBO"group-title="ENGLISH",HBO
 http://172.16.215.142/hls/5005.m3u8
-#EXTINF:-1 tvg-id="SONY MAX-HD"group-title="HINDI-MOVIES",SONY MAX-HD
+#EXTINF:-1 tvg-id="SONY MAX-HD"group-title="HINDI",SONY MAX-HD
 http://172.16.215.142/hls/5029.m3u8
-#EXTINF:-1 tvg-id="& Picture HD"group-title="HINDI-MOVIES",& Picture HD
+#EXTINF:-1 tvg-id="& Picture HD"group-title="HINDI",& Picture HD
 http://172.16.215.142/hls/5039.m3u8
-#EXTINF:-1 tvg-id="ZEE CINEMA HD"group-title="HINDI-MOVIES",ZEE CINEMA HD
+#EXTINF:-1 tvg-id="ZEE CINEMA HD"group-title="HINDI",ZEE CINEMA HD
 http://172.16.215.142/hls/5032.m3u8
-#EXTINF:-1 tvg-id="ZEE TV HD"group-title="HINDI-MOVIES",ZEE TV HD
+#EXTINF:-1 tvg-id="ZEE TV HD"group-title="HINDI",ZEE TV HD
 http://172.16.215.142/hls/5031.m3u8
-#EXTINF:-1 tvg-id="STAR GOLD"group-title="HINDI-MOVIES",STAR GOLD
+#EXTINF:-1 tvg-id="STAR GOLD"group-title="HINDI",STAR GOLD
 http://172.16.215.142/hls/5028.m3u8
-#EXTINF:-1 tvg-id="STAR Plus HD"group-title="HINDI-MOVIES",STAR Plus HD
+#EXTINF:-1 tvg-id="STAR Plus HD"group-title="HINDI",STAR Plus HD
 http://172.16.215.142/hls/5030.m3u8
-#EXTINF:-1 tvg-id="COLOURS Cineplex HD"group-title="HINDI-MOVIES",COLOURS Cineplex HD
+#EXTINF:-1 tvg-id="COLOURS Cineplex HD"group-title="HINDI",COLOURS Cineplex HD
 http://172.16.215.142/hls/5037.m3u8
-#EXTINF:-1 tvg-id="STAR GOLD"group-title="HINDI-MOVIES",STAR GOLD
-http://172.16.215.142/hls/5028.m3u8
-#EXTINF:-1 tvg-id="GOLDMINE"group-title="HINDI-MOVIES",GOLDMINE
+#EXTINF:-1 tvg-id="SONY ENTERTAINMENT"group-title="HINDI",SONY ENTERTAINMENT
+http://172.16.215.142/hls/5034.m3u8
+#EXTINF:-1 tvg-id="COLOR'S HD"group-title="HINDI",COLOR'S HD
+http://172.16.215.142/hls/5035.m3u8
+#EXTINF:-1 tvg-id="GOLDMINE"group-title="HINDI",GOLDMINE
 http://172.16.215.142/hls/4117.m3u8
-#EXTINF:-1 tvg-id="9xM"group-title="MUSIC",9xM
+#EXTINF:-1 tvg-id="9xM"group-title="HINDI",9xM
 http://172.16.215.142/hls/4122.m3u8
-#EXTINF:-1 tvg-id="Masti"group-title="MUSIC",Masti
+#EXTINF:-1 tvg-id="Masti"group-title="HINDI",Masti
 http://172.16.215.142/hls/4124.m3u8
-#EXTINF:-1 tvg-id="Sangeet Bangla"group-title="MUSIC",Sangeet Bangla
+#EXTINF:-1 tvg-id="Sangeet Bangla"group-title="BANGLA",Sangeet Bangla
 http://172.16.215.142/hls/4120.m3u8
-#EXTINF:-1 tvg-id="Gan Bangla"group-title="MUSIC",Gan Bangla
+#EXTINF:-1 tvg-id="Gan Bangla"group-title="BANGLA",Gan Bangla
 http://172.16.215.142/hls/4018.m3u8
 #EXTINF:-1 tvg-id="PTV Sports"group-title="SPORTS",PTV Sports
 http://172.16.215.142/hls/4151.m3u8
-#EXTINF:-1 tvg-id="Sports-18"group-title="SPORTS",Sports-18
+#EXTINF:-1 tvg-id="Sports-18"group-title="ENGLISH",Sports-18
 http://172.16.215.142/hls/5017.m3u8
 #EXTINF:-1 tvg-id="STAR SPORTS-1"group-title="SPORTS",STAR SPORTS-1
 http://172.16.215.142/hls/5052.m3u8
@@ -91,23 +95,29 @@ http://172.16.215.142/hls/5056.m3u8
 http://172.16.215.142/hls/5044.m3u8
 #EXTINF:-1 tvg-id="SONY SPORTS-3"group-title="SPORTS",SONY SPORTS-3
 http://172.16.215.142/hls/5045.m3u8
-#EXTINF:-1 tvg-id="SONY SPORTS-4"group-title="SPORTS",SONY SPORTS-4
+#EXTINF:-1 tvg-id="SONY SPORTS-5"group-title="SPORTS",SONY SPORTS-5
 http://172.16.215.142/hls/5020.m3u8
-#EXTINF:-1 tvg-id="NICK"group-title="CARTON",NICK
+#EXTINF:-1 tvg-id="NICK"group-title="ENGLISH",NICK
 http://172.16.215.142/hls/5024.m3u8
-#EXTINF:-1 tvg-id="SONIC"group-title="CARTON",SONIC
+#EXTINF:-1 tvg-id="SONIC"group-title="HINDI",SONIC
 http://172.16.215.142/hls/5041.m3u8
-#EXTINF:-1 tvg-id="SONY YAYI"group-title="CARTON",SONY YAYI
+#EXTINF:-1 tvg-id="SONY YAYI"group-title="ENGLISH",SONY YAYI
 http://172.16.215.142/hls/5023.m3u8
-#EXTINF:-1 tvg-id="Discovery HD"group-title="INFORMATIVE",Discovery HD
+#EXTINF:-1 tvg-id="COMEDY CENTER"group-title="ENGLISH",COMEDY CENTER
+http://172.16.215.142/hls/5002.m3u8
+#EXTINF:-1 tvg-id="BBC NEWS"group-title="ENGLISH",BBC NEWS
+http://172.16.215.142/hls/5003.m3u8
+#EXTINF:-1 tvg-id="AL JAZEERA"group-title="ENGLISH",AL JAZEERA
+http://172.16.215.142/hls/4047.m3u8
+#EXTINF:-1 tvg-id="Discovery HD"group-title="ENGLISH",Discovery HD
 http://172.16.215.142/hls/5026.m3u8
-#EXTINF:-1 tvg-id="Wild "group-title="INFORMATIVE",Wild
+#EXTINF:-1 tvg-id="Wild "group-title="ENGLISH",Wild
 http://172.16.215.142/hls/5027.m3u8
-#EXTINF:-1 tvg-id="BBC Earth"group-title="INFORMATIVE",BBC Earth
+#EXTINF:-1 tvg-id="BBC Earth"group-title="ENGLISH",BBC Earth
 http://172.16.215.142/hls/5038.m3u8
-#EXTINF:-1 tvg-id="Travel XP"group-title="INFORMATIVE",Travel XP
+#EXTINF:-1 tvg-id="Travel XP"group-title="ENGLISH",Travel XP
 http://172.16.215.142/hls/5046.m3u8
-#EXTINF:-1 tvg-id="National Geographic"group-title="INFORMATIVE",National Geographic
+#EXTINF:-1 tvg-id="National Geographic"group-title="ENGLISH",National Geographic
 http://172.16.215.142/hls/5036.m3u8
-#EXTINF:-1 tvg-id="Animal Planet"group-title="INFORMATIVE",Animal Planet
+#EXTINF:-1 tvg-id="Animal Planet"group-title="ENGLISH",Animal Planet
 http://172.16.215.142/hls/5025.m3u8
