@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="MOCCA TV"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Makkah_logo.png"group-title="ISLAMIC",MOCCA TV
+#EXTINF:-1 group-title="ISLAMIC" tvg-chno="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Makkah_logo.png", MOCCA TV
 http://172.16.215.142/hls/4112.m3u8
 #EXTINF:-1 tvg-id="MADANI CHANNAL"tvg-logo=https://en.wikipedia.org/wiki/File:Dawateislami_logo.png"group-title="ISLAMIC",MADANI CHANNAL
 http://172.16.215.142/hls/4029.m3u8
