@@ -1,24 +1,14 @@
 #EXTM3U
-#EXTINF:-1 group-title="ISLAMIC" tvg-chno="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Makkah_logo.png", MOCCA TV
+#EXTINF:-1 tvg-id="MOCCA TV"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Makkah_logo"group-title="ISLAMIC",MOCCA TV
 http://172.16.215.142/hls/4112.m3u8
-#EXTINF:-1 tvg-id="MADANI CHANNAL"tvg-logo=https://en.wikipedia.org/wiki/File:Dawateislami_logo.png"group-title="ISLAMIC",MADANI CHANNAL
+#EXTINF:-1 tvg-id="MADANI CHANNAL" tvg-logo=https://upload.wikimedia.org/wikipedia/en/2/2e/Dawateislami_logo.png"group-title="ISLAMIC",MADANI CHANNAL
 http://172.16.215.142/hls/4029.m3u8
-#EXTINF:-1 tvg-id="SOMOY TV"tvg-logo="https://upload.wikimedia.org/wikipedia/bn/f/f6/%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg"group-title="BANGLA",SOMOY TV
+#EXTINF:-1 tvg-id="SOMOY TV"tvg-logo=""group-title="BANGLA",SOMOY TV
 http://172.16.215.142/hls/4010.m3u8
 #EXTINF:-1 tvg-id="STAR বাংলা"tvg-logo=""group-title="BANGLA",STAR বাংলা
 http://172.16.215.142/hls/5006.m3u8
 #EXTINF:-1 tvg-id="Jamuna TV"tvg-logo=""group-title="BANGLA",Jamuna TV
 http://172.16.215.142/hls/4005.m3u8
-#EXTINF: -1 tvg-id="472" tvg-name="And TV HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_TV_HD.png" group-title="Entertainment", And TV HD
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andtvhd/default/index.m3u8
-#EXTINF:-1 group-title="Bangladeshi Entertainment" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/25/logo/240x240/mobile_logo_913146001673185595.png", Asian TV HD
-#EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1708390254:KeyName=prod_linear:Signature=1BRnVUfPHe0henedzWx-ogoDl4oMLE_N1H_JoDjUbg0-gG2oV7mvYMFS3ujTKpnOloyM1WK2qJWWYnhQrLqJBA"}
-https://bldcmprod-cdn.toffeelive.com/cdn/live/asian_tv_hd/playlist.m3u8
-#EXTINF:-1 group-title="Indian Movies" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/804/logo/240x240/mobile_logo_370803001655891689.png", Zee Cinema HD
-https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_cinema_hd/playlist.m3u8
-
-
 #EXTINF:-1 tvg-id="Ekattor TV"tvg-logo=""group-title="BANGLA",Ekattor TV
 http://172.16.215.142/hls/4017.m3u8
 #EXTINF:-1 tvg-id="Channel I"tvg-logo=""group-title="BANGLA",Channel I
