@@ -149,3 +149,6 @@ http://172.16.215.142/hls/5046.m3u8
 http://172.16.215.142/hls/5036.m3u8
 #EXTINF:-1 tvg-id="Animal Planet"group-title="ENGLISH",Animal Planet
 http://172.16.215.142/hls/5025.m3u8
+#EXTINF:1460, Dunki
+#EXTVLCOPT:network-caching=1000
+http://cdn1.discoveryftp.net/Movies/Hindi/2023/Dunki/Dunki%20%282023%29Hindi%20NF%20WEB-DL%201080p.mkv
