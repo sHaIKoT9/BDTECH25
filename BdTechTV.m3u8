@@ -109,6 +109,8 @@ http://172.16.215.142/hls/5044.m3u8
 http://172.16.215.142/hls/5045.m3u8
 #EXTINF:-1 tvg-id="SONY SPORTS-5"group-title="SPORTS",SONY SPORTS-5
 http://172.16.215.142/hls/5020.m3u8
+#EXTINF:-1 tvg-id="SONY SPORTS-5"group-title="SPORTS",SONY SPORTS-5
+https://tencentscdn2.tamashaweb.com/v1/018ad584681c09831f17035dc819/018ad58586961eb401a60363c44c/tamashapsl2024_clone_1080p.m3u8?isSubM3u8=1
 #EXTINF:-1 tvg-id="NICK"group-title="ENGLISH",NICK
 http://172.16.215.142/hls/5024.m3u8
 #EXTINF:-1 tvg-id="SONIC"group-title="HINDI",SONIC
