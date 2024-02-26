@@ -149,6 +149,12 @@ http://172.16.215.142/hls/5046.m3u8
 http://172.16.215.142/hls/5036.m3u8
 #EXTINF:-1 tvg-id="Animal Planet"group-title="ENGLISH",Animal Planet
 http://172.16.215.142/hls/5025.m3u8
+#EXTINF:-1 tvg-id="National Geographic"group-title="ENGLISH",National Geographic
+https://8v1cc03lpt.gpcdn.net/ohmkwfiiff/Boishakhi_TV-1080p.m3u8
+#EXTINF:-1 tvg-id="National Geographic"group-title="ENGLISH",National Geographic
+https://8v1cc03lpt.gpcdn.net/ohmkwfiiff/Boishakhi_TV-1080p.m3u8
+#EXTINF:-1 tvg-id="National Geographic"group-title="ENGLISH",National Geographic
+https://d2xeo83q8fcni6.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-SynapseTV/00aa1cbb-f738-4ec0-aff5-d98a6d082ee4/1.m3u8
 #EXTINF:1460, Dunki
 #EXTVLCOPT:network-caching=1000
 http://cdn1.discoveryftp.net/Movies/Hindi/2023/Dunki/Dunki%20%282023%29Hindi%20NF%20WEB-DL%201080p.mkv
