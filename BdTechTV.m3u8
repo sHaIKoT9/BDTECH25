@@ -45,6 +45,8 @@ http://172.16.215.142/hls/5021.m3u8
 http://172.16.215.142/hls/5022.m3u8
 #EXTINF:-1 tvg-id="Movies Now-HD"group-title="ENGLISH",Movies Now-HD
 http://172.16.215.142/hls/5018.m3u8
+#EXTINF:-1 tvg-id="Romedy Now"group-title="ENGLISH",Romedy Now
+http://172.16.215.142/hls/5059.m3u8
 #EXTINF:-1 tvg-id="HBO"group-title="ENGLISH",HBO
 http://172.16.215.142/hls/5005.m3u8
 #EXTINF:-1 tvg-id="SONY MAX-HD"group-title="HINDI",SONY MAX-HD
@@ -55,8 +57,14 @@ http://172.16.215.142/hls/5039.m3u8
 http://172.16.215.142/hls/5032.m3u8
 #EXTINF:-1 tvg-id="ZEE TV HD"group-title="HINDI",ZEE TV HD
 http://172.16.215.142/hls/5031.m3u8
+#EXTINF:-1 tvg-id="&xplor HD"group-title="HINDI",&xplor HD
+http://172.16.215.142/hls/5060.m3u8
+#EXTINF:-1 tvg-id="STAR GOLD-2"group-title="HINDI",STAR GOLD-2
+http://172.16.215.142/hls/5063.m3u8
 #EXTINF:-1 tvg-id="STAR GOLD"group-title="HINDI",STAR GOLD
 http://172.16.215.142/hls/5028.m3u8
+#EXTINF:-1 tvg-id="STAR GOLD Select"group-title="HINDI",STAR GOLD Select
+http://172.16.215.142/hls/5058.m3u8
 #EXTINF:-1 tvg-id="STAR Plus HD"group-title="HINDI",STAR Plus HD
 http://172.16.215.142/hls/5030.m3u8
 #EXTINF:-1 tvg-id="COLOURS Cineplex HD"group-title="HINDI",COLOURS Cineplex HD
@@ -77,8 +85,12 @@ http://172.16.215.142/hls/4120.m3u8
 http://172.16.215.142/hls/4018.m3u8
 #EXTINF:-1 tvg-id="PTV Sports"group-title="SPORTS",PTV Sports
 http://172.16.215.142/hls/4151.m3u8
+#EXTINF:-1 tvg-id="T-Sports"group-title="SPORTS",T-Sports
+http://10.10.10.2/live/fnffeed1004/index.m3u8
 #EXTINF:-1 tvg-id="Sports-18"group-title="ENGLISH",Sports-18
 http://172.16.215.142/hls/5017.m3u8
+#EXTINF:-1 tvg-id="URO Sports HD"group-title="ENGLISH",URO Sports HD
+http://172.16.215.142/hls/5013.m3u8
 #EXTINF:-1 tvg-id="STAR SPORTS-1"group-title="SPORTS",STAR SPORTS-1
 http://172.16.215.142/hls/5052.m3u8
 #EXTINF:-1 tvg-id="STAR SPORTS-2"group-title="SPORTS",STAR SPORTS-2
@@ -103,12 +115,28 @@ http://172.16.215.142/hls/5024.m3u8
 http://172.16.215.142/hls/5041.m3u8
 #EXTINF:-1 tvg-id="SONY YAYI"group-title="ENGLISH",SONY YAYI
 http://172.16.215.142/hls/5023.m3u8
+#EXTINF:-1 tvg-id="&flix HD"group-title="ENGLISH",&flix HD
+http://172.16.215.142/hls/5014.m3u8
 #EXTINF:-1 tvg-id="COMEDY CENTER"group-title="ENGLISH",COMEDY CENTER
 http://172.16.215.142/hls/5002.m3u8
 #EXTINF:-1 tvg-id="BBC NEWS"group-title="ENGLISH",BBC NEWS
 http://172.16.215.142/hls/5003.m3u8
 #EXTINF:-1 tvg-id="AL JAZEERA"group-title="ENGLISH",AL JAZEERA
 http://172.16.215.142/hls/4047.m3u8
+#EXTINF:-1 tvg-id="MN+"group-title="ENGLISH",MN+
+http://172.16.215.142/hls/5015.m3u8
+#EXTINF:-1 tvg-id="MN+X"-HD"group-title="ENGLISH",MN+X-HD
+http://172.16.215.142/hls/5009.m3u8
+#EXTINF:-1 tvg-id="CN HD+"group-title="ENGLISH",CN HD+
+http://172.16.215.142/hls/5012.m3u8
+#EXTINF:-1 tvg-id="Colors INFINITY"group-title="ENGLISH",Colors INFINITY
+http://172.16.215.142/hls/5061.m3u8
+#EXTINF:-1 tvg-id="TLC HD"group-title="ENGLISH",TLC HD
+http://172.16.215.142/hls/5062.m3u8
+#EXTINF:-1 tvg-id="ZEECAFE HD"group-title="ENGLISH",ZEECAFE HD
+http://172.16.215.142/hls/5016.m3u8
+#EXTINF:-1 tvg-id="Comedy HD"group-title="ENGLISH",Comedy HD
+http://172.16.215.142/hls/5057.m3u8
 #EXTINF:-1 tvg-id="Discovery HD"group-title="ENGLISH",Discovery HD
 http://172.16.215.142/hls/5026.m3u8
 #EXTINF:-1 tvg-id="Wild "group-title="ENGLISH",Wild
