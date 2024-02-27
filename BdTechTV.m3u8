@@ -1,18 +1,16 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="", group-title="BdTechTV-ISLAMIC",  MOCCA TV
+#EXTINF:-1 tvg-logo="https://postimg.cc/8F3MJppK", group-title="BdTechTV-ISLAMIC",  MOCCA TV
 http://172.16.215.142/hls/4112.m3u8
-#EXTINF:-1 tvg-logo="", group-title="BdTechTV-ISLAMIC",  MADANI CHANNAL
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jdBMjsJH/Madani-TV.jpg", group-title="BdTechTV-ISLAMIC",  MADANI CHANNAL
 http://172.16.215.142/hls/4029.m3u8
 
-#EXTINF:-1 tvg-logo="", group-title="BdTechTV-BANGLA",  SOMOY TV
-http://172.16.215.142/hls/4010.m3u8
-#EXTINF:-1 tvg-id="SOMOY TV"tvg-logo=""group-title="BANGLA",SOMOY TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W34GnKkp/SOMOY-TV.png", group-title="BdTechTV-BANGLA",  SOMOY TV
 http://172.16.215.142/hls/4010.m3u8
 #EXTINF:-1 tvg-logo="", group-title="BdTechTV-BANGLA",  STAR বাংলা
 http://172.16.215.142/hls/5006.m3u8
 #EXTINF:-1 tvg-logo="", group-title="BdTechTV-BANGLA",  Jamuna TV
 http://172.16.215.142/hls/4005.m3u8
-#EXTINF:-1 tvg-logo="", group-title="BdTechTV-BANGLA",  Ekattor TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/1tWH1PQN/71.png", group-title="BdTechTV-BANGLA",  Ekattor TV
 http://172.16.215.142/hls/4017.m3u8
 #EXTINF:-1 tvg-logo="", group-title="BdTechTV-BANGLA",  Channel I
 http://172.16.215.142/hls/4016.m3u8
