@@ -1,50 +1,50 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://postimg.cc/8F3MJppK", group-title="BdTechTV-ISLAMIC",  MOCCA TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/hj4rYvHB/Mokkha.png", group-title="BdTechTV-ISLAMIC",  MOCCA TV
 http://172.16.215.142/hls/4112.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jdBMjsJH/Madani-TV.jpg", group-title="BdTechTV-ISLAMIC",  MADANI CHANNAL
 http://172.16.215.142/hls/4029.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W34GnKkp/SOMOY-TV.png", group-title="BdTechTV-BANGLA",  SOMOY TV
 http://172.16.215.142/hls/4010.m3u8
-#EXTINF:-1 tvg-logo="", group-title="BdTechTV-BANGLA",  STAR বাংলা
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/854HpJ7Z/STAR-BANGLA.png", group-title="BdTechTV-BANGLA",  STAR বাংলা
 http://172.16.215.142/hls/5006.m3u8
-#EXTINF:-1 tvg-logo="", group-title="BdTechTV-BANGLA",  Jamuna TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/y8CSG6dx/JAMUNA-TV.jpg", group-title="BdTechTV-BANGLA",  Jamuna TV
 http://172.16.215.142/hls/4005.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1tWH1PQN/71.png", group-title="BdTechTV-BANGLA",  Ekattor TV
 http://172.16.215.142/hls/4017.m3u8
-#EXTINF:-1 tvg-logo="", group-title="BdTechTV-BANGLA",  Channel I
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jh5xKZYx/CHANNEL-I.png", group-title="BdTechTV-BANGLA",  Channel I
 http://172.16.215.142/hls/4016.m3u8
-#EXTINF:-1 tvg-logo="", group-title="BdTechTV-BANGLA",  Nagorik TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4x8Hx6P7/Nagorik.png", group-title="BdTechTV-BANGLA",  Nagorik TV
 http://172.16.215.142/hls/5007.m3u8
-#EXTINF:-1 tvg-logo="", group-title="BdTechTV-BANGLA",  Gazi TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/DZhhVDGq/Live-Sports.jpg", group-title="BdTechTV-SPORTS",  Live Sports
 http://172.16.215.142/hls/5008.m3u8
-#EXTINF:-1 tvg-logo="", group-title="BdTechTV-BANGLA",  Inepedent TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5y6mxG4K/INDIPENDENT-TV.jpg", group-title="BdTechTV-BANGLA",  Inepedent TV
 http://172.16.215.142/hls/4008.m3u8
-#EXTINF:-1 tvg-logo="", group-title="BdTechTV-BANGLA",  GREEN TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fyhJrBzF/Green-Tv.png", group-title="BdTechTV-BANGLA",  GREEN TV
 http://172.16.215.142/hls/4055.m3u8
-#EXTINF:-1 tvg-logo="", group-title="BdTechTV-BANGLA",  Zee Bangal
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HxPQP2ww/Zee-Bnala-HD.png", group-title="BdTechTV-BANGLA",  Zee Bangal
 http://172.16.215.142/hls/5048.m3u8
-#EXTINF:-1 tvg-logo="", group-title="BdTechTV-BANGLA",  Zee Bangla Cinema
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wjKkp0SF/Zee-Bngla-Cenema.jpg", group-title="BdTechTV-BANGLA",  Zee Bangla Cinema
 http://172.16.215.142/hls/5050.m3u8
-#EXTINF:-1 tvg-logo="", group-title="BdTechTV-BANGLA",  Colours Bangla
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qBGYqgfV/Colors-Bangla.jpg", group-title="BdTechTV-BANGLA",  Colours Bangla
 http://172.16.215.142/hls/5047.m3u8
-#EXTINF:-1 tvg-logo="", group-title="BdTechTV-BANGLA",  Colours Bangla Cinema
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/52tqgNkz/Colors-Bangla-Cinema.png", group-title="BdTechTV-BANGLA",  Colours Bangla Cinema
 http://172.16.215.142/hls/5033.m3u8
-#EXTINF:-1 tvg-logo="", group-title="BdTechTV-BANGLA",  Star Jalsha
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9fCt4zX7/Star-Jalsha.jpg", group-title="BdTechTV-BANGLA",  Star Jalsha
 http://172.16.215.142/hls/5053.m3u8
-#EXTINF:-1 tvg-logo="", group-title="BdTechTV-BANGLA",  Jalsha Movies
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59krLTtn/Jalsha-Movies.jpg", group-title="BdTechTV-BANGLA",  Jalsha Movies
 http://172.16.215.142/hls/5054.m3u8
-#EXTINF:-1 tvg-logo="", group-title="BdTechTV-BANGLA",  SONY AAT
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VkjWLXww/S8.jpg", group-title="BdTechTV-BANGLA",  SONY AAT
 http://172.16.215.142/hls/5049.m3u8
-#EXTINF:-1 tvg-logo="", group-title="BdTechTV-BANGLA",  SUN Bangla
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9FY9wRC2/Sun-Bangla.jpg", group-title="BdTechTV-BANGLA",  SUN Bangla
 http://172.16.215.142/hls/5051.m3u8
-#EXTINF:-1 tvg-logo="", group-title="BdTechTV-BANGLA",  ENTER-10
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjP5RRn3/Enter10-Bangla.jpg", group-title="BdTechTV-BANGLA",  ENTER-10
 http://172.16.215.142/hls/4036.m3u8
-#EXTINF:-1 tvg-logo="", group-title="BdTechTV-BANGLA",  Sangeet Bangla
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QCstjmBT/Sangeet-Bangla.webp", group-title="BdTechTV-BANGLA",  Sangeet Bangla
 http://172.16.215.142/hls/4120.m3u8
-#EXTINF:-1 tvg-logo="", group-title="BdTechTV-BANGLA",  Gan Bangla
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vZ93gpWp/GB.jpg", group-title="BdTechTV-BANGLA",  Gan Bangla
 http://172.16.215.142/hls/4018.m3u8
-#EXTINF:-1 tvg-logo="", group-title="BdTechTV-BANGLA",  BOISHAKHI TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vB7Y2nPH/Boishakhi.png", group-title="BdTechTV-BANGLA",  BOISHAKHI TV
 https://8v1cc03lpt.gpcdn.net/ohmkwfiiff/Boishakhi_TV-1080p.m3u8
 
 
@@ -102,7 +102,7 @@ http://172.16.215.142/hls/5025.m3u8
 
 #EXTINF:-1 tvg-logo="", group-title="BdTechTV-HINDI",  & Picture HD
 http://172.16.215.142/hls/5039.m3u8
-#EXTINF:-1 tvg-logo="", group-title="BdTechTV-HINDI",  ZEE CINEMA HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vmh75MDS/Zee-Cenema.png", group-title="BdTechTV-HINDI",  ZEE CINEMA HD
 http://172.16.215.142/hls/5032.m3u8
 #EXTINF:-1 tvg-logo="", group-title="BdTechTV-HINDI",  ZEE TV HD
 http://172.16.215.142/hls/5031.m3u8
@@ -162,3 +162,13 @@ http://172.16.215.142/hls/5020.m3u8
 #EXTINF:-1 tvg-logo="", group-title="BdTechTV-MOVIE",  DUNKI
 #EXTVLCOPT:network-caching=1000
 http://cdn1.discoveryftp.net/Movies/Hindi/2023/Dunki/Dunki%20%282023%29Hindi%20NF%20WEB-DL%201080p.mkv
+#EXTINF:-1 tvg-logo="", group-title="BdTechTV-MOVIE",  Tiger 3
+#EXTVLCOPT:network-caching=1000
+http://cdn1.discoveryftp.net/Movies/Hindi/2023/Tiger%203/Tiger%203%20%282023%29%20Hindi%20WEB-DL%201080p.mkv
+#EXTINF:-1 tvg-logo="", group-title="BdTechTV-MOVIE",  Teri Baaton Mein Aisa Uljha Jiya
+#EXTVLCOPT:network-caching=1000
+http://cdn1.discoveryftp.net/Movies/Hindi/2024/Teri%20Baaton%20Mein%20Aisa%20Uljha%20Jiya/Teri%20Baaton%20Mein%20Aisa%20Uljha%20Jiya%20%282024%29%20Hindi%20HDTS%201080p%202.3GB.mkv
+#EXTINF:-1 tvg-logo="", group-title="BdTechTV-MOVIE",   Salaar Part 1 - Ceasefire
+#EXTVLCOPT:network-caching=1000
+http://cdn1.discoveryftp.net/Movies/Tamil/2023/Salaar%20Part%201%20-%20Ceasefire/Salaar%20%282023%29-Dual%20Audo%20%5BHindi%20Cleaned-Telugu%5D%20Dual%20NF%20WEB-DL%201080p.mkv
+        
