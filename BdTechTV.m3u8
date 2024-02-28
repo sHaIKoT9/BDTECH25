@@ -3,6 +3,8 @@
 http://172.16.215.142/hls/4112.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jdBMjsJH/Madani-TV.jpg", group-title="BdTechTV-ISLAMIC",  MADANI CHANNAL
 http://172.16.215.142/hls/4029.m3u8
+#EXTINF:-1 tvg-logo="", group-title="BdTechTV-ISLAMIC",  ATN ISLAMIC
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnislamictv.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W34GnKkp/SOMOY-TV.png", group-title="BdTechTV-BANGLA",  SOMOY TV
 http://172.16.215.142/hls/4010.m3u8
@@ -46,7 +48,20 @@ http://172.16.215.142/hls/4120.m3u8
 http://172.16.215.142/hls/4018.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vB7Y2nPH/Boishakhi.png", group-title="BdTechTV-BANGLA",  BOISHAKHI TV
 https://8v1cc03lpt.gpcdn.net/ohmkwfiiff/Boishakhi_TV-1080p.m3u8
+#EXTINF:-1 tvg-logo=""BdTechTV-BANGLA",  TBN24 WEB USA
+https://dog.dg21bd.com/TBN24WEBUSA/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo=""BdTechTV-BANGLA",  Ekhon TV
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/globaltv.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo=""BdTechTV-BANGLA",  News-24
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/news24local.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo=""BdTechTV-BANGLA",  DBC News
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/dbcnews.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo=""BdTechTV-BANGLA",  Nexus Television
+https://livess.jagobd.com.bd/live-orgin/nexustv.stream/chunks.m3u8
 
+
+
+#EXTINF:-1 tvg-logo=""BdTechTV-BANGLA",  BOISHAKHI TV
 
 #EXTINF:-1 tvg-logo="", group-title="BdTechTV-ENGLISH",  STAR MOVIES
 http://172.16.215.142/hls/5021.m3u8
@@ -60,10 +75,6 @@ http://172.16.215.142/hls/5059.m3u8
 http://172.16.215.142/hls/5005.m3u8
 #EXTINF:-1 tvg-logo="", group-title="BdTechTV-ENGLISH",  SONY MAX-HD
 http://172.16.215.142/hls/5029.m3u8
-#EXTINF:-1 tvg-logo="", group-title="BdTechTV-ENGLISH",  NICK
-http://172.16.215.142/hls/5024.m3u8
-#EXTINF:-1 tvg-logo="", group-title="BdTechTV-ENGLISH",  SONY YAYI
-http://172.16.215.142/hls/5023.m3u8
 #EXTINF:-1 tvg-logo="", group-title="BdTechTV-ENGLISH",  &flix HD
 http://172.16.215.142/hls/5014.m3u8
 #EXTINF:-1 tvg-logo="", group-title="BdTechTV-ENGLISH",  COMEDY CENTER
@@ -100,6 +111,14 @@ http://172.16.215.142/hls/5036.m3u8
 http://172.16.215.142/hls/5025.m3u8
 
 
+#EXTINF:-1 tvg-logo="", group-title="BdTechTV-CARTON",  NICK
+http://172.16.215.142/hls/5024.m3u8
+#EXTINF:-1 tvg-logo="", group-title="BdTechTV-CARTON",  SONY YAYI
+http://172.16.215.142/hls/5023.m3u8
+#EXTINF:-1 tvg-logo="", group-title="BdTechTV-CARTON",  SONIC
+http://172.16.215.142/hls/5041.m3u8
+
+
 #EXTINF:-1 tvg-logo="", group-title="BdTechTV-HINDI",  & Picture HD
 http://172.16.215.142/hls/5039.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vmh75MDS/Zee-Cenema.png", group-title="BdTechTV-HINDI",  ZEE CINEMA HD
@@ -128,8 +147,11 @@ http://172.16.215.142/hls/4117.m3u8
 http://172.16.215.142/hls/4122.m3u8
 #EXTINF:-1 tvg-logo="", group-title="BdTechTV-HINDI",  Masti
 http://172.16.215.142/hls/4124.m3u8
-#EXTINF:-1 tvg-logo="", group-title="BdTechTV-HINDI",  SONIC
-http://172.16.215.142/hls/5041.m3u8
+#EXTINF:-1 tvg-logo="", group-title="BdTechTV-HINDI",  Zing
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zing/default/zing-audio_208482_und=208000-video=562400.m3u8
+#EXTINF:-1 tvg-logo="", group-title="BdTechTV-HINDI",  MBEATS
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Mtvbeats/default/mtvbeats-audio_208482_und=208000-video=2137600.m3u8
+
 
 #EXTINF:-1 tvg-logo="", group-title="BdTechTV-SPORTS",  PTV Sports
 http://172.16.215.142/hls/4151.m3u8
@@ -157,6 +179,8 @@ http://172.16.215.142/hls/5044.m3u8
 http://172.16.215.142/hls/5045.m3u8
 #EXTINF:-1 tvg-logo="", group-title="BdTechTV-SPORTS",  SONY SPORTS-5
 http://172.16.215.142/hls/5020.m3u8
+#EXTINF:-1 tvg-logo="", group-title="BdTechTV-SPORTS",  WILLOW HD
+https://sportsleading.online/live/stream_e1.m3u8
 
 
 #EXTINF:-1 tvg-logo="", group-title="BdTechTV-MOVIE",  DUNKI
