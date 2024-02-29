@@ -195,4 +195,8 @@ http://cdn1.discoveryftp.net/Movies/Hindi/2024/Teri%20Baaton%20Mein%20Aisa%20Ulj
 #EXTINF:-1 tvg-logo="", group-title="BdTechTV-MOVIE",   Salaar Part 1 - Ceasefire
 #EXTVLCOPT:network-caching=1000
 http://cdn1.discoveryftp.net/Movies/Tamil/2023/Salaar%20Part%201%20-%20Ceasefire/Salaar%20%282023%29-Dual%20Audo%20%5BHindi%20Cleaned-Telugu%5D%20Dual%20NF%20WEB-DL%201080p.mkv
+#EXTINF:-1 tvg-logo="", group-title="BdTechTV-MOVIE",  O Saathiya
+#EXTVLCOPT:network-caching=1000
+http://cdn1.discoveryftp.net/Movies/Tamil/2023/O%20Saathiya/O.Saathiya.2023.1080p.AMZN%20Dual.WEB-DL.DDP5.1.HEVC-Telly.mkv
+        
         
