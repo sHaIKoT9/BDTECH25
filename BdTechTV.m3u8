@@ -48,16 +48,18 @@ http://172.16.215.142/hls/4120.m3u8
 http://172.16.215.142/hls/4018.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vB7Y2nPH/Boishakhi.png", group-title="BdTechTV-BANGLA",  BOISHAKHI TV
 https://8v1cc03lpt.gpcdn.net/ohmkwfiiff/Boishakhi_TV-1080p.m3u8
-#EXTINF:-1 tvg-logo=""BdTechTV-BANGLA",  TBN24 WEB USA
+#EXTINF:-1 tvg-logo="", group-title="BdTechTV-BANGLA", TBN24 WEB USA
 https://dog.dg21bd.com/TBN24WEBUSA/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo=""BdTechTV-BANGLA",  Ekhon TV
+#EXTINF:-1 tvg-logo="", group-title="BdTechTV-BANGLA", Ekhon TV
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/globaltv.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo=""BdTechTV-BANGLA",  News-24
+#EXTINF:-1 tvg-logo="", group-title="BdTechTV-BANGLA", News-24
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/news24local.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo=""BdTechTV-BANGLA",  DBC News
+#EXTINF:-1 tvg-logo="", group-title="BdTechTV-BANGLA", DBC News
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/dbcnews.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo=""BdTechTV-BANGLA",  Nexus Television
+#EXTINF:-1 tvg-logo="", group-title="BdTechTV-BANGLA", Nexus Television
 https://livess.jagobd.com.bd/live-orgin/nexustv.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="", group-title="BdTechTV-BANGLA", DeeptoTV
+https://byphdgllyk.gpcdn.net/DeeptoTV/deeptotv-720p.m3u8
 
 
 
