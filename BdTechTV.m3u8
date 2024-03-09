@@ -61,9 +61,8 @@ https://livess.jagobd.com.bd/live-orgin/nexustv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="", group-title="BdTechTV-BANGLA", DeeptoTV
 https://byphdgllyk.gpcdn.net/DeeptoTV/deeptotv-720p.m3u8
 
-
-
-#EXTINF:-1 tvg-logo=""BdTechTV-BANGLA",  BOISHAKHI TV
+#EXTINF:-1 tvg-logo="", group-title="BdTechTV-BANGLA", SA TV
+https://8v1cc03lpt.gpcdn.net/iiyirzqxrb/SA_TV-240p.m3u
 
 #EXTINF:-1 tvg-logo="", group-title="BdTechTV-ENGLISH",  STAR MOVIES
 http://172.16.215.142/hls/5021.m3u8
