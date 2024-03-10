@@ -59,7 +59,6 @@ https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 https://livess.jagobd.com.bd/live-orgin/nexustv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="", group-title="BdTechTV-BANGLA", DeeptoTV
 https://byphdgllyk.gpcdn.net/DeeptoTV/deeptotv-720p.m3u8
-pktflix.top
 #EXTINF:-1 tvg-logo="", group-title="BdTechTV-BANGLA", RtvPlus
 https://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/chunklist_w81829040.m3u8
 
@@ -152,6 +151,8 @@ http://172.16.215.142/hls/4124.m3u8
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zing/default/zing-audio_208482_und=208000-video=562400.m3u8
 #EXTINF:-1 tvg-logo="", group-title="BdTechTV-HINDI",  MBEATS
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Mtvbeats/default/mtvbeats-audio_208482_und=208000-video=2137600.m3u8
+#EXTINF:-1 tvg-logo="", group-title="BdTechTV-HINDI",  9XM Jalwa
+https://live.bongobd.com/hls/5RgDlH90rs3E9-OXoHVqCQ/1710097783/sky-9x-jalwa_mid/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="", group-title="BdTechTV-SPORTS",  PTV Sports
