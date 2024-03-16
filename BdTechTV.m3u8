@@ -67,7 +67,8 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1710118645/ei/l
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1710117889/ei/oP_tZczfPKnn4t4Pu6OM-As/ip/103.103.99.89/id/bGyPspDGLJU.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/ctier/A/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/hightc/yes/siu/1/spc/UWF9f7o5aw_UvG5rna9GJ-O6sEmsfNAygfgRjOl0DUEGITt4T4naTNNn0RZ_/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cctier%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Chightc%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgPBUN0Lt63M7JeBY3Gi5UULFEiL2R0-DVmhywe1i4NBACICYIY6D08pzn5-QseDMxBNYA_VY24rMUumnrYeE0kV6O/file/index.m3u8
 #EXTINF:-1 tvg-logo="", group-title="Youtube Live", ATN News
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1710119284/ei/FAXuZZiiKIC54t4P86WN-Ag/ip/103.103.99.88/id/9uAhoytglGo.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/ctier/A/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/hightc/yes/siu/1/spc/UWF9fxAt8L4obb_TmM1Ph8n2hGTutJXPetJia2w8YwGY0i-2G3MykWltgwIz/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cctier%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Chightc%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgPl03vWc0DysQsv_eT35ET5UtLKM7wX8LK6dEkCZ6Y0ACIQCEFoD3gVewQodjFFF2_rxx2CldnkP_uMB1OLSdewmx7Q%3D%3D/file/index.m3u8
-
+#EXTINF:-1 tvg-logo="", group-title="BdTechTV-BANGLA", Ekushey TV
+https://list.iptvcat.com/my_list/s/0e7093b49b44e5546367f5c6590df34b.m3u8
 
 #EXTINF:-1 tvg-logo="", group-title="BdTechTV-ENGLISH",  STAR MOVIES
 http://172.16.215.142/hls/5021.m3u8
