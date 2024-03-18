@@ -70,6 +70,9 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1710119284/ei/F
 #EXTINF:-1 tvg-logo="", group-title="BdTechTV-BANGLA", Ekushey TV
 https://list.iptvcat.com/my_list/s/0e7093b49b44e5546367f5c6590df34b.m3u8
 
+#EXTINF:-1 tvg-logo="", group-title="BdTechTV-BANGLA", SONNIX
+https://edge4.bioscopelive.com/hls/anonymous/RHIZ7lcCLWj51iypfbwJnA/1710790100/live3-sonic_hi/index.m3u8
+
 #EXTINF:-1 tvg-logo="", group-title="BdTechTV-ENGLISH",  STAR MOVIES
 http://172.16.215.142/hls/5021.m3u8
 #EXTINF:-1 tvg-logo="", group-title="BdTechTV-ENGLISH",  SONY PIX
