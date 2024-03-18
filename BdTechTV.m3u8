@@ -46,7 +46,7 @@ http://172.16.215.142/hls/4018.m3u8
 #EXTINF:-1 tvg-logo="", group-title="BdTechTV-ISLAMIC",  ATN ISLAMIC
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnislamictv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vB7Y2nPH/Boishakhi.png", group-title="BdTechTV-BANGLA",  BOISHAKHI TV
-https://8v1cc03lpt.gpcdn.net/ohmkwfiiff/Boishakhi_TV-1080p.m3u8
+https://8v1cc03lpt.gpcdn.net/ohmkwfiiff/Boishakhi_TV-720p.m3u8
 #EXTINF:-1 tvg-logo="", group-title="BdTechTV-BANGLA", TBN24 WEB USA
 https://dog.dg21bd.com/TBN24WEBUSA/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="", group-title="BdTechTV-BANGLA", Ekhon TV
@@ -69,9 +69,11 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1710117889/ei/o
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1710119284/ei/FAXuZZiiKIC54t4P86WN-Ag/ip/103.103.99.88/id/9uAhoytglGo.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/ctier/A/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/hightc/yes/siu/1/spc/UWF9fxAt8L4obb_TmM1Ph8n2hGTutJXPetJia2w8YwGY0i-2G3MykWltgwIz/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cctier%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Chightc%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgPl03vWc0DysQsv_eT35ET5UtLKM7wX8LK6dEkCZ6Y0ACIQCEFoD3gVewQodjFFF2_rxx2CldnkP_uMB1OLSdewmx7Q%3D%3D/file/index.m3u8
 #EXTINF:-1 tvg-logo="", group-title="BdTechTV-BANGLA", Ekushey TV
 https://list.iptvcat.com/my_list/s/0e7093b49b44e5546367f5c6590df34b.m3u8
+#EXTINF:-1 tvg-logo="", group-title="BdTechTV-BANGLA", ATN NEWS
+https://8v1cc03lpt.gpcdn.net/qntmjrquxm/ATN_News-720p.m3u8
+#EXTINF:-1 tvg-logo="", group-title="BdTechTV-BANGLA", BANGLA TV
+https://8v1cc03lpt.gpcdn.net/xncmeopkro/Bangla_TV-720p.m3u8
 
-#EXTINF:-1 tvg-logo="", group-title="BdTechTV-BANGLA", SONNIX
-https://edge4.bioscopelive.com/hls/anonymous/RHIZ7lcCLWj51iypfbwJnA/1710790100/live3-sonic_hi/index.m3u8
 
 #EXTINF:-1 tvg-logo="", group-title="BdTechTV-ENGLISH",  STAR MOVIES
 http://172.16.215.142/hls/5021.m3u8
