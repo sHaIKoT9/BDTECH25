@@ -212,5 +212,8 @@ http://cdn1.discoveryftp.net/Movies/Tamil/2023/Salaar%20Part%201%20-%20Ceasefire
 #EXTINF:-1 tvg-logo="", group-title="BdTechTV-MOVIE",  O Saathiya
 #EXTVLCOPT:network-caching=1000
 http://cdn1.discoveryftp.net/Movies/Tamil/2023/O%20Saathiya/O.Saathiya.2023.1080p.AMZN%20Dual.WEB-DL.DDP5.1.HEVC-Telly.mkv
+#EXTINF:-1 tvg-logo="", group-title="BdTechTV-MOVIE",  Raaz 3-The Third Dimension 
+#EXTVLCOPT:network-caching=1000
+http://cdn1.discoveryftp.net/Movies/Hindi/2012/Raaz%203-The%20Third%20Dimension/Raaz.3.2012.Hindi.720p.HDRip.x264.AAC.-.Hon3yHD.mkv
         
         
