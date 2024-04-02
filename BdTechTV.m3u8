@@ -20,13 +20,40 @@ http://172.16.215.142/hls/4017.m3u8
 http://172.16.215.142/hls/4008.m3u8
 
 
+#EXTINF:-1 tvg-logo="", group-title="BdTechTV-BANGLA NEWS", TBN24 WEB USA
+https://dog.dg21bd.com/TBN24WEBUSA/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="", group-title="BdTechTV-BANGLA NEWS", Ekhon TV
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/globaltv.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="", group-title="BdTechTV-BANGLA NEWS", News-24
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/news24local.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="", group-title="BdTechTV-BANGLA NEWS", DBC News
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/dbcnews.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="", group-title="BdTechTV-BANGLA NEWS", Ekushey TV
+https://list.iptvcat.com/my_list/s/0e7093b49b44e5546367f5c6590df34b.m3u8
+#EXTINF:-1 tvg-logo="", group-title="BdTechTV-BANGLA NEWS", ATN NEWS
+https://8v1cc03lpt.gpcdn.net/qntmjrquxm/ATN_News-720p.m3u8
+#EXTINF:-1 tvg-logo="", group-title="BdTechTV-BANGLA NEWS", Nexus Television
+https://livess.jagobd.com.bd/live-orgin/nexustv.stream/chunks.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/854HpJ7Z/STAR-BANGLA.png", group-title="BdTechTV-BANGLA ENTERTAINMENT",  STAR বাংলা
 http://172.16.215.142/hls/5006.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Jh5xKZYx/CHANNEL-I.png", group-title="BdTechTV-BANGLA ENTERTAINMENT",  Channel I
 http://172.16.215.142/hls/4016.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/vZ93gpWp/GB.jpg", group-title="BdTechTV-BANGLA",  Gan Bangla
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vZ93gpWp/GB.jpg", group-title="BdTechTV-BANGLA ENTERTAINMENT",  Gan Bangla
 http://172.16.215.142/hls/4018.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fyhJrBzF/Green-Tv.png", group-title="BdTechTV-BANGLA ENTERTAINMENT",  GREEN TV
+http://172.16.215.142/hls/4055.m3u8
+#EXTINF:-1 tvg-logo="", group-title="BdTechTV-BANGLA ENTERTAINMENT",  Masranga TV
+https://bdtv.bdix19d339c0d6-bdtv-east-1-playback-live-streaming.fun/aynaott/stream.m3u8?id=11&e=.m3u8
+#EXTINF:-1 tvg-logo="", group-title="BdTechTV-BANGLA ENTERTAINMENT", DeeptoTV
+https://byphdgllyk.gpcdn.net/DeeptoTV/deeptotv-720p.m3u8
+#EXTINF:-1 tvg-logo="", group-title="BdTechTV-BANGLA ENTERTAINMENT", RtvPlus
+https://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/chunklist_w81829040.m3u8
+#EXTINF:-1 tvg-logo="", group-title="BdTechTV-BANGLA ENTERTAINMENT", BANGLA TV
+https://8v1cc03lpt.gpcdn.net/xncmeopkro/Bangla_TV-720p.m3u8
+
 
 
 
@@ -35,8 +62,7 @@ http://172.16.215.142/hls/4018.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DZhhVDGq/Live-Sports.jpg", group-title="BdTechTV-SPORTS",  GAZI TV
 http://172.16.215.142/hls/5008.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/fyhJrBzF/Green-Tv.png", group-title="BdTechTV-BANGLA KOLKATA",  GREEN TV
-http://172.16.215.142/hls/4055.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HxPQP2ww/Zee-Bnala-HD.png", group-title="BdTechTV-BANGLA KOLKATA",  Zee Bangal
 http://172.16.215.142/hls/5048.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wjKkp0SF/Zee-Bngla-Cenema.jpg", group-title="BdTechTV-BANGLA KOLKATA",  Zee Bangla Cinema
@@ -57,37 +83,15 @@ http://172.16.215.142/hls/5051.m3u8
 http://172.16.215.142/hls/4036.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QCstjmBT/Sangeet-Bangla.webp", group-title="BdTechTV-BANGLA KOLKATA",  Sangeet Bangla
 http://172.16.215.142/hls/4120.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/vZ93gpWp/GB.jpg", group-title="BdTechTV-BANGLA",  Gan Bangla
-http://172.16.215.142/hls/4018.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/vB7Y2nPH/Boishakhi.png", group-title="BdTechTV-BANGLA",  BOISHAKHI TV
-https://8v1cc03lpt.gpcdn.net/ohmkwfiiff/Boishakhi_TV-720p.m3u8
-#EXTINF:-1 tvg-logo="", group-title="BdTechTV-BANGLA", TBN24 WEB USA
-https://dog.dg21bd.com/TBN24WEBUSA/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="", group-title="BdTechTV-BANGLA", Ekhon TV
-https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/globaltv.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="", group-title="BdTechTV-BANGLA", News-24
-https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/news24local.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="", group-title="BdTechTV-BANGLA", DBC News
-https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/dbcnews.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="", group-title="BdTechTV-BANGLA", Nexus Television
-https://livess.jagobd.com.bd/live-orgin/nexustv.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="", group-title="BdTechTV-BANGLA", DeeptoTV
-https://byphdgllyk.gpcdn.net/DeeptoTV/deeptotv-720p.m3u8
-#EXTINF:-1 tvg-logo="", group-title="BdTechTV-BANGLA", RtvPlus
-https://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/chunklist_w81829040.m3u8
-#EXTINF:-1 tvg-logo="", group-title="Youtube Live", RTV Music
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1710118645/ei/lQLuZfOaMIjp4-EP9aiI2AY/ip/103.103.99.89/id/5_n77Gnoep0.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/ctier/A/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/hightc/yes/siu/1/spc/UWF9f8JrHiTgBqMVVNYyC1kPpYNDtJ-xMF4rSePRfc32olQIRZ-19lqcAwkN/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cctier%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Chightc%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgbNkcGXHUBvmyI0ZrpO7UeX1Y0ZOLIdOxktNqmBXbGIECIFxjR0SUuFCpqDmmiqqoqUIYMsffNpUlyNPr0428F8YH/file/index.m3u8
-#EXTINF:-1 tvg-logo="", group-title="Youtube Live", Jamuna TV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1710117889/ei/oP_tZczfPKnn4t4Pu6OM-As/ip/103.103.99.89/id/bGyPspDGLJU.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/ctier/A/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/hightc/yes/siu/1/spc/UWF9f7o5aw_UvG5rna9GJ-O6sEmsfNAygfgRjOl0DUEGITt4T4naTNNn0RZ_/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cctier%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Chightc%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgPBUN0Lt63M7JeBY3Gi5UULFEiL2R0-DVmhywe1i4NBACICYIY6D08pzn5-QseDMxBNYA_VY24rMUumnrYeE0kV6O/file/index.m3u8
-#EXTINF:-1 tvg-logo="", group-title="Youtube Live", ATN News
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1710119284/ei/FAXuZZiiKIC54t4P86WN-Ag/ip/103.103.99.88/id/9uAhoytglGo.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/ctier/A/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/hightc/yes/siu/1/spc/UWF9fxAt8L4obb_TmM1Ph8n2hGTutJXPetJia2w8YwGY0i-2G3MykWltgwIz/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cctier%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Chightc%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgPl03vWc0DysQsv_eT35ET5UtLKM7wX8LK6dEkCZ6Y0ACIQCEFoD3gVewQodjFFF2_rxx2CldnkP_uMB1OLSdewmx7Q%3D%3D/file/index.m3u8
-#EXTINF:-1 tvg-logo="", group-title="BdTechTV-BANGLA", Ekushey TV
-https://list.iptvcat.com/my_list/s/0e7093b49b44e5546367f5c6590df34b.m3u8
-#EXTINF:-1 tvg-logo="", group-title="BdTechTV-BANGLA", ATN NEWS
-https://8v1cc03lpt.gpcdn.net/qntmjrquxm/ATN_News-720p.m3u8
-#EXTINF:-1 tvg-logo="", group-title="BdTechTV-BANGLA", BANGLA TV
-https://8v1cc03lpt.gpcdn.net/xncmeopkro/Bangla_TV-720p.m3u8
+
+
+
+
+
+
+
+
 
 
 #EXTINF:-1 tvg-logo="", group-title="BdTechTV-ENGLISH",  STAR MOVIES
