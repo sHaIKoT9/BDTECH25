@@ -10,12 +10,18 @@ https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W34GnKkp/SOMOY-TV.png", group-title="BdTechTV-BANGLA NEWS",  SOMOY TV Link-1
 http://172.16.215.142/hls/4010.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/W34GnKkp/SOMOY-TV.png", group-title="BdTechTV-BANGLA NEWS",  SOMOY TV Link-1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W34GnKkp/SOMOY-TV.png", group-title="BdTechTV-BANGLA NEWS",  SOMOY TV Link-2
 https://livess.jagobd.com.bd/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/y8CSG6dx/JAMUNA-TV.jpg", group-title="BdTechTV-BANGLA NEWS",  Jamuna TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W34GnKkp/SOMOY-TV.png", group-title="BdTechTV-BANGLA NEWS",  SOMOY TV Link-3
+https://tv5.hoichoi24.com/1102/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/y8CSG6dx/JAMUNA-TV.jpg", group-title="BdTechTV-BANGLA NEWS",  Jamuna TV Link-1
 http://172.16.215.142/hls/4005.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/1tWH1PQN/71.png", group-title="BdTechTV-BANGLA NEWS",  Ekattor TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/y8CSG6dx/JAMUNA-TV.jpg", group-title="BdTechTV-BANGLA NEWS",  Jamuna TV Link-2
+https://tv5.hoichoi24.com/1102/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/1tWH1PQN/71.png", group-title="BdTechTV-BANGLA NEWS",  Ekattor TV Link-1
 http://172.16.215.142/hls/4017.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/1tWH1PQN/71.png", group-title="BdTechTV-BANGLA NEWS",  Ekattor TV Link-2
+https://tv5.hoichoi24.com/1102/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5y6mxG4K/INDIPENDENT-TV.jpg", group-title="BdTechTV-BANGLA NEWS",  Inepedent TV
 http://172.16.215.142/hls/4008.m3u8
 
@@ -27,12 +33,13 @@ https://livess.jagobd.com.bd/live-orgin/globaltv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="", group-title="BdTechTV-BANGLA NEWS", News-24
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/news24local.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="", group-title="BdTechTV-BANGLA NEWS", DBC News
-https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/dbcnews.stream/chunks.m3u8
+https://tv5.hoichoi24.com/1102/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="", group-title="BdTechTV-BANGLA NEWS", Ekushey TV
 https://list.iptvcat.com/my_list/s/0e7093b49b44e5546367f5c6590df34b.m3u8
-#EXTINF:-1 tvg-logo="", group-title="BdTechTV-BANGLA NEWS", ATN NEWS L1
+#EXTINF:-1 tvg-logo="", group-title="BdTechTV-BANGLA NEWS", ATN NEWS Link-1
 https://8v1cc03lpt.gpcdn.net/qntmjrquxm/ATN_News-720p.m3u8
-#EXTINF:-1 tvg-logo="", group-title="BdTechTV-BANGLA NEWS", ATN NEWS L2
+#EXTINF:-1 tvg-logo="", group-title="BdTechTV-BANGLA NEWS", ATN NEWS Link-2
+https://tv5.hoichoi24.com/1102/tracks-v1a1/mono.m3u8
 https://livess.jagobd.com.bd/live-orgin/atnbd-8-org.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="", group-title="BdTechTV-BANGLA NEWS", Nexus Television
 https://livess.jagobd.com.bd/live-orgin/nexustv.stream/chunks.m3u8
@@ -42,23 +49,36 @@ https://bdtv.bdix19d339c0d6-bdtv-east-1-playback-live-streaming.fun/aynaott/stre
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/854HpJ7Z/STAR-BANGLA.png", group-title="BdTechTV-BANGLA ENTERTAINMENT",  STAR বাংলা
 http://172.16.215.142/hls/5006.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jh5xKZYx/CHANNEL-I.png", group-title="BdTechTV-BANGLA ENTERTAINMENT",  Channel I
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jh5xKZYx/CHANNEL-I.png", group-title="BdTechTV-BANGLA ENTERTAINMENT",  Channel I Link-1
 http://172.16.215.142/hls/4016.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jh5xKZYx/CHANNEL-I.png", group-title="BdTechTV-BANGLA ENTERTAINMENT",  Channel I Link-2
+https://tv5.hoichoi24.com/1102/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vZ93gpWp/GB.jpg", group-title="BdTechTV-BANGLA ENTERTAINMENT",  Gan Bangla
 http://172.16.215.142/hls/4018.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fyhJrBzF/Green-Tv.png", group-title="BdTechTV-BANGLA ENTERTAINMENT",  GREEN TV
 http://172.16.215.142/hls/4055.m3u8
 #EXTINF:-1 tvg-logo="", group-title="BdTechTV-BANGLA ENTERTAINMENT",  Masranga TV
 https://bdtv.bdix19d339c0d6-bdtv-east-1-playback-live-streaming.fun/aynaott/stream.m3u8?id=11&e=.m3u8
-#EXTINF:-1 tvg-logo="", group-title="BdTechTV-BANGLA ENTERTAINMENT", DeeptoTV
+#EXTINF:-1 tvg-logo="", group-title="BdTechTV-BANGLA ENTERTAINMENT", DeeptoTV Link-1
 https://byphdgllyk.gpcdn.net/DeeptoTV/deeptotv-720p.m3u8
+#EXTINF:-1 tvg-logo="", group-title="BdTechTV-BANGLA ENTERTAINMENT", DeeptoTV Link-2
+https://tv5.hoichoi24.com/1102/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="", group-title="BdTechTV-BANGLA ENTERTAINMENT", RtvPlus
 https://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/chunklist_w81829040.m3u8
-#EXTINF:-1 tvg-logo="", group-title="BdTechTV-BANGLA ENTERTAINMENT", BANGLA TV
+#EXTINF:-1 tvg-logo="", group-title="BdTechTV-BANGLA ENTERTAINMENT", Rtv HD
+https://tv5.hoichoi24.com/1102/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="", group-title="BdTechTV-BANGLA ENTERTAINMENT", BANGLA TV Link-1
 https://8v1cc03lpt.gpcdn.net/xncmeopkro/Bangla_TV-720p.m3u8
-
-
-
+#EXTINF:-1 tvg-logo="", group-title="BdTechTV-BANGLA ENTERTAINMENT", BANGLA TV Link-2
+https://tv5.hoichoi24.com/1102/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="", group-title="BdTechTV-BANGLA ENTERTAINMENT", BOISHAKHI TV
+https://tv5.hoichoi24.com/1102/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="", group-title="BdTechTV-BANGLA ENTERTAINMENT", BANGLA VISION
+https://tv5.hoichoi24.com/1102/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="", group-title="BdTechTV-BANGLA ENTERTAINMENT", SA TV
+https://tv5.hoichoi24.com/1102/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="", group-title="BdTechTV-BANGLA ENTERTAINMENT", MOHONA TV
+https://tv5.hoichoi24.com/1102/tracks-v1a1/mono.m3u8
 
 
 
