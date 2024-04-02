@@ -23,18 +23,21 @@ http://172.16.215.142/hls/4008.m3u8
 #EXTINF:-1 tvg-logo="", group-title="BdTechTV-BANGLA NEWS", TBN24 WEB USA
 https://dog.dg21bd.com/TBN24WEBUSA/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="", group-title="BdTechTV-BANGLA NEWS", Ekhon TV
-https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/globaltv.stream/chunks.m3u8
+https://livess.jagobd.com.bd/live-orgin/globaltv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="", group-title="BdTechTV-BANGLA NEWS", News-24
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/news24local.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="", group-title="BdTechTV-BANGLA NEWS", DBC News
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/dbcnews.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="", group-title="BdTechTV-BANGLA NEWS", Ekushey TV
 https://list.iptvcat.com/my_list/s/0e7093b49b44e5546367f5c6590df34b.m3u8
-#EXTINF:-1 tvg-logo="", group-title="BdTechTV-BANGLA NEWS", ATN NEWS
+#EXTINF:-1 tvg-logo="", group-title="BdTechTV-BANGLA NEWS", ATN NEWS L1
 https://8v1cc03lpt.gpcdn.net/qntmjrquxm/ATN_News-720p.m3u8
+#EXTINF:-1 tvg-logo="", group-title="BdTechTV-BANGLA NEWS", ATN NEWS L2
+https://livess.jagobd.com.bd/live-orgin/atnbd-8-org.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="", group-title="BdTechTV-BANGLA NEWS", Nexus Television
 https://livess.jagobd.com.bd/live-orgin/nexustv.stream/chunks.m3u8
-
+#EXTINF:-1 tvg-logo="", group-title="BdTechTV-BANGLA NEWS", Global TV
+https://bdtv.bdix19d339c0d6-bdtv-east-1-playback-live-streaming.fun/aynaott/stream.m3u8?id=34&e=.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/854HpJ7Z/STAR-BANGLA.png", group-title="BdTechTV-BANGLA ENTERTAINMENT",  STAR বাংলা
