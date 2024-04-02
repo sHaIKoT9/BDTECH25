@@ -3,48 +3,63 @@
 http://172.16.215.142/hls/4112.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jdBMjsJH/Madani-TV.jpg", group-title="BdTechTV-ISLAMIC",  MADANI CHANNAL
 http://172.16.215.142/hls/4029.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/W34GnKkp/SOMOY-TV.png", group-title="BdTechTV-BANGLA",  SOMOY TV
+#EXTINF:-1 tvg-logo="", group-title="BdTechTV-ISLAMIC",  ATN ISLAMIC
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnislamictv.stream/chunks.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W34GnKkp/SOMOY-TV.png", group-title="BdTechTV-BANGLA NEWS",  SOMOY TV Link-1
 http://172.16.215.142/hls/4010.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/854HpJ7Z/STAR-BANGLA.png", group-title="BdTechTV-BANGLA",  STAR বাংলা
-http://172.16.215.142/hls/5006.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/y8CSG6dx/JAMUNA-TV.jpg", group-title="BdTechTV-BANGLA",  Jamuna TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W34GnKkp/SOMOY-TV.png", group-title="BdTechTV-BANGLA NEWS",  SOMOY TV Link-1
+https://livess.jagobd.com.bd/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/y8CSG6dx/JAMUNA-TV.jpg", group-title="BdTechTV-BANGLA NEWS",  Jamuna TV
 http://172.16.215.142/hls/4005.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/1tWH1PQN/71.png", group-title="BdTechTV-BANGLA",  Ekattor TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/1tWH1PQN/71.png", group-title="BdTechTV-BANGLA NEWS",  Ekattor TV
 http://172.16.215.142/hls/4017.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jh5xKZYx/CHANNEL-I.png", group-title="BdTechTV-BANGLA",  Channel I
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5y6mxG4K/INDIPENDENT-TV.jpg", group-title="BdTechTV-BANGLA NEWS",  Inepedent TV
+http://172.16.215.142/hls/4008.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/854HpJ7Z/STAR-BANGLA.png", group-title="BdTechTV-BANGLA ENTERTAINMENT",  STAR বাংলা
+http://172.16.215.142/hls/5006.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jh5xKZYx/CHANNEL-I.png", group-title="BdTechTV-BANGLA ENTERTAINMENT",  Channel I
 http://172.16.215.142/hls/4016.m3u8
-#EXTINF:-1 tvg-logo="", group-title="BdTechTV-SPORTS",  Ben Sports-1
-http://172.16.215.142/hls/5007.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vZ93gpWp/GB.jpg", group-title="BdTechTV-BANGLA",  Gan Bangla
+http://172.16.215.142/hls/4018.m3u8
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DZhhVDGq/Live-Sports.jpg", group-title="BdTechTV-SPORTS",  GAZI TV
 http://172.16.215.142/hls/5008.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/5y6mxG4K/INDIPENDENT-TV.jpg", group-title="BdTechTV-BANGLA",  Inepedent TV
-http://172.16.215.142/hls/4008.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/fyhJrBzF/Green-Tv.png", group-title="BdTechTV-BANGLA",  GREEN TV
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fyhJrBzF/Green-Tv.png", group-title="BdTechTV-BANGLA KOLKATA",  GREEN TV
 http://172.16.215.142/hls/4055.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/HxPQP2ww/Zee-Bnala-HD.png", group-title="BdTechTV-BANGLA",  Zee Bangal
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HxPQP2ww/Zee-Bnala-HD.png", group-title="BdTechTV-BANGLA KOLKATA",  Zee Bangal
 http://172.16.215.142/hls/5048.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wjKkp0SF/Zee-Bngla-Cenema.jpg", group-title="BdTechTV-BANGLA",  Zee Bangla Cinema
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wjKkp0SF/Zee-Bngla-Cenema.jpg", group-title="BdTechTV-BANGLA KOLKATA",  Zee Bangla Cinema
 http://172.16.215.142/hls/5050.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qBGYqgfV/Colors-Bangla.jpg", group-title="BdTechTV-BANGLA",  Colours Bangla
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qBGYqgfV/Colors-Bangla.jpg", group-title="BdTechTV-BANGLA KOLKATA",  Colours Bangla
 http://172.16.215.142/hls/5047.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/52tqgNkz/Colors-Bangla-Cinema.png", group-title="BdTechTV-BANGLA",  Colours Bangla Cinema
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/52tqgNkz/Colors-Bangla-Cinema.png", group-title="BdTechTV-BANGLA KOLKATA",  Colours Bangla Cinema
 http://172.16.215.142/hls/5033.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9fCt4zX7/Star-Jalsha.jpg", group-title="BdTechTV-BANGLA",  Star Jalsha
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9fCt4zX7/Star-Jalsha.jpg", group-title="BdTechTV-BANGLA KOLKATA",  Star Jalsha
 http://172.16.215.142/hls/5053.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/59krLTtn/Jalsha-Movies.jpg", group-title="BdTechTV-BANGLA",  Jalsha Movies
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59krLTtn/Jalsha-Movies.jpg", group-title="BdTechTV-BANGLA KOLKATA",  Jalsha Movies
 http://172.16.215.142/hls/5054.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/VkjWLXww/S8.jpg", group-title="BdTechTV-BANGLA",  SONY AAT
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VkjWLXww/S8.jpg", group-title="BdTechTV-BANGLA KOLKATA",  SONY AAT
 http://172.16.215.142/hls/5049.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9FY9wRC2/Sun-Bangla.jpg", group-title="BdTechTV-BANGLA",  SUN Bangla
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9FY9wRC2/Sun-Bangla.jpg", group-title="BdTechTV-BANGLA KOLKATA",  SUN Bangla
 http://172.16.215.142/hls/5051.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjP5RRn3/Enter10-Bangla.jpg", group-title="BdTechTV-BANGLA",  ENTER-10
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjP5RRn3/Enter10-Bangla.jpg", group-title="BdTechTV-BANGLA KOLKATA",  ENTER-10
 http://172.16.215.142/hls/4036.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QCstjmBT/Sangeet-Bangla.webp", group-title="BdTechTV-BANGLA",  Sangeet Bangla
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QCstjmBT/Sangeet-Bangla.webp", group-title="BdTechTV-BANGLA KOLKATA",  Sangeet Bangla
 http://172.16.215.142/hls/4120.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vZ93gpWp/GB.jpg", group-title="BdTechTV-BANGLA",  Gan Bangla
 http://172.16.215.142/hls/4018.m3u8
-#EXTINF:-1 tvg-logo="", group-title="BdTechTV-ISLAMIC",  ATN ISLAMIC
-https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnislamictv.stream/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vB7Y2nPH/Boishakhi.png", group-title="BdTechTV-BANGLA",  BOISHAKHI TV
 https://8v1cc03lpt.gpcdn.net/ohmkwfiiff/Boishakhi_TV-720p.m3u8
 #EXTINF:-1 tvg-logo="", group-title="BdTechTV-BANGLA", TBN24 WEB USA
