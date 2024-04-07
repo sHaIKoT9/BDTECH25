@@ -84,6 +84,8 @@ https://tv5.hoichoi24.com/1102/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DZhhVDGq/Live-Sports.jpg", group-title="BdTechTV-SPORTS",  GAZI TV
 http://172.16.215.142/hls/5008.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/DZhhVDGq/Live-Sports.jpg", group-title="BdTechTV-SPORTS",  T SPORTS
+https://tv5.hoichoi24.com/1101/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HxPQP2ww/Zee-Bnala-HD.png", group-title="BdTechTV-BANGLA KOLKATA",  Zee Bangal
