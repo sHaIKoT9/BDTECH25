@@ -1,8 +1,33 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="", group-title="BdTechTV-SPORTS",  BPL LIVE-1
+#EXTINF:-1 tvg-logo="", group-title="BdTechTV-SPORTS",  IPL LIVE-1
 http://10.10.10.2/live/fnffeed1004/index.m3u8
-#EXTINF:-1 tvg-logo="", group-title="BdTechTV-SPORTS",  BPL LIVE-2
+#EXTINF:-1 tvg-logo="", group-title="BdTechTV-SPORTS",  IPL LIVE-2
 http://10.10.10.2/live/fnffeed1003/index.m3u8
+
+#EXTINF:-1 tvg-logo="", group-title="BdTechTV-ISLAMIC",  Comming Soon
+http://172.16.215.142/hls/4112.m3u8
+
+#EXTINF:-1 tvg-logo="", group-title="BdTechTV-BANGLA NEWS",  Comming Soon
+http://172.16.215.142/hls/4010.m3u8
+
+
+#EXTINF:-1 tvg-logo="", group-title="BdTechTV-BANGLA ENTERTAINMENT",  Comming Soon
+http://172.16.215.142/hls/5006.m3u8
+
+
+#EXTINF:-1 tvg-logo="", group-title="BdTechTV-BANGLA KOLKATA",  Comming Soon
+http://172.16.215.142/hls/5048.m3u8
+
+#EXTINF:-1 tvg-logo="", group-title="BdTechTV-ENGLISH",  Comming Soon
+http://172.16.215.142/hls/5021.m3u8
+
+
+#EXTINF:-1 tvg-logo="", group-title="BdTechTV-CARTON",  Comming Soon
+http://172.16.215.142/hls/5024.m3u8
+
+
+#EXTINF:-1 tvg-logo="", group-title="BdTechTV-HINDI",  Comming Soon
+http://172.16.215.142/hls/5058.m3u8
 
 
 #EXTINF:-1 tvg-logo="", group-title="BdTechTV-MOVIE",  DUNKI
