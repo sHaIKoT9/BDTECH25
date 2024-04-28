@@ -7,9 +7,24 @@ http://10.10.10.2/live/fnffeed1003/index.m3u8
 https://live-cdn.tsports.com/live-02/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fbTQT2Qq/TATA-IPL-2024-Logo.png", group-title="BdTechTV-SPORTS",  IPL LIVE-4
 https://live-cdn.tsports.com/live-02/master_1920.m3u8
+#EXTINF:-1 tvg-logo="", group-title="BdTechTV-SPORTS",  Sports-18
+https://tv1.instafarm.live/getm3u8/2853/master.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="", group-title="BdTechTV-INFORMATIVE",  Discovery
 https://varun-iptv.netlify.app/m3u/discoveryenglish.m3u8
+#EXTINF:-1 tvg-logo="", group-title="BdTechTV-INFORMATIVE",  Discovery HD
+https://tv1.instafarm.live/getm3u8/242/master.m3u8
+#EXTINF:-1 tvg-logo="", group-title="BdTechTV-INFORMATIVE",  Travel XP
+https://tv1.instafarm.live/getm3u8/164/master.m3u8
+#EXTINF:-1 tvg-logo="", group-title="BdTechTV-INFORMATIVE",  Animal Planet
+https://tv1.instafarm.live/getm3u8/286/master.m3u8
+
+
+
+
+
 #EXTINF:-1 tvg-logo="", group-title="BdTechTV-ISLAMIC",  Comming Soon
 http://172.16.215.142/hls/4112.m3u8
 
@@ -29,6 +44,17 @@ https://tv1.instafarm.live/getm3u8/625/master.m3u8
 https://tv1.instafarm.live/getm3u8/685/master.m3u8
 #EXTINF:-1 tvg-logo="", group-title="BdTechTV-BANGLA KOLKATA",  Color Bangla HD
 https://tv1.instafarm.live/getm3u8/756/master.m3u8
+#EXTINF:-1 tvg-logo="", group-title="BdTechTV-BANGLA KOLKATA",  Sangeet Bangla
+https://tv1.instafarm.live/getm3u8/740/master.m3u8
+#EXTINF:-1 tvg-logo="", group-title="BdTechTV-BANGLA KOLKATA",  APB Anando
+https://tv1.instafarm.live/getm3u8/672/master.m3u8
+#EXTINF:-1 tvg-logo="", group-title="BdTechTV-BANGLA KOLKATA",  Akash ৮
+https://tv1.instafarm.live/getm3u8/698/master.m3u8
+#EXTINF:-1 tvg-logo="", group-title="BdTechTV-BANGLA KOLKATA",  KOLKATA TV
+https://tv1.instafarm.live/getm3u8/1264/master.m3u8
+
+
+
 
 #EXTINF:-1 tvg-logo="", group-title="BdTechTV-ENGLISH",  Comming Soon
 http://172.16.215.142/hls/5021.m3u8
@@ -39,15 +65,23 @@ http://172.16.215.142/hls/5024.m3u8
 
 
 #EXTINF:-1 tvg-logo="", group-title="BdTechTV-HINDI",  SONY MAX
+https://tv1.instafarm.live/getm3u8/289/master.m3u8
+#EXTINF:-1 tvg-logo="", group-title="BdTechTV-HINDI",  SONY MAX
 http://170.254.18.107/SONYMAX/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="", group-title="BdTechTV-HINDI",  SONY MAX HD
+https://tv1.instafarm.live/getm3u8/476/master.m3u8
+#EXTINF:-1 tvg-logo="", group-title="BdTechTV-HINDI",  SONY MAX2
+https://tv1.instafarm.live/getm3u8/483/master.m3u8
 #EXTINF:-1 tvg-logo="", group-title="BdTechTV-HINDI",  ZEE CINEMA
 http://170.254.18.107/ZEECINEMA/tracks-a1/mono.m3u8
 #EXTINF:-1 tvg-logo="", group-title="BdTechTV-HINDI",  ZEE CINEMA
 https://tv1.instafarm.live/getm3u8/484/master.m3u8
 #EXTINF:-1 tvg-logo="", group-title="BdTechTV-HINDI",  ZEE CINEMA HD
 https://tv1.instafarm.live/getm3u8/165/master.m3u8
-#EXTINF:-1 tvg-logo="", group-title="BdTechTV-HINDI",  Colors Cineplex
+#EXTINF:-1 tvg-logo="", group-title="BdTechTV-HINDI",  Colors Cineplex HD
 https://tv1.instafarm.live/getm3u8/1477/master.m3u8
+#EXTINF:-1 tvg-logo="", group-title="BdTechTV-HINDI",  Colors Cineplex
+https://tv1.instafarm.live/getm3u8/482/master.m3u8
 #EXTINF:-1 tvg-logo="", group-title="BdTechTV-HINDI",  & Picture HD
 https://tv1.instafarm.live/getm3u8/185/master.m3u8
 #EXTINF:-1 tvg-logo="", group-title="BdTechTV-HINDI",  B4U Movies
@@ -64,8 +98,18 @@ https://tv1.instafarm.live/getm3u8/488/master.m3u8
 https://tv1.instafarm.live/getm3u8/584/master.m3u8
 #EXTINF:-1 tvg-logo="", group-title="BdTechTV-HINDI",  9xM
 https://tv1.instafarm.live/getm3u8/587/master.m3u8
+#EXTINF:-1 tvg-logo="", group-title="BdTechTV-HINDI",  9xM Jalwa
+https://tv1.instafarm.live/getm3u8/440/master.m3u8
 #EXTINF:-1 tvg-logo="", group-title="BdTechTV-HINDI",  ZooM
 https://tv1.instafarm.live/getm3u8/592/master.m3u8
+#EXTINF:-1 tvg-logo="", group-title="BdTechTV-HINDI",  Music India
+https://tv1.instafarm.live/getm3u8/250/master.m3u8
+#EXTINF:-1 tvg-logo="", group-title="BdTechTV-HINDI",  M BEATS
+https://tv1.instafarm.live/getm3u8/753/master.m3u8
+#EXTINF:-1 tvg-logo="", group-title="BdTechTV-HINDI", Saregama Music
+https://tv1.instafarm.live/getm3u8/2065/master.m3u8
+#EXTINF:-1 tvg-logo="", group-title="BdTechTV-HINDI", Jio SpecialS
+https://tv1.instafarm.live/getm3u8/2230/master.m3u8
 
 
 
