@@ -5,6 +5,8 @@ http://10.10.10.2/live/fnffeed1001/index.m3u8
 http://10.10.10.2/live/fnffeed1003/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fbTQT2Qq/TATA-IPL-2024-Logo.png", group-title="BdTechTV-SPORTS",  IPL LIVE-3
 https://live-cdn.tsports.com/live-02/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fbTQT2Qq/TATA-IPL-2024-Logo.png", group-title="BdTechTV-SPORTS",  IPL LIVE-4
+https://live-cdn.tsports.com/live-02/master_1920.m3u8
 
 #EXTINF:-1 tvg-logo="", group-title="BdTechTV-ISLAMIC",  Comming Soon
 http://172.16.215.142/hls/4112.m3u8
