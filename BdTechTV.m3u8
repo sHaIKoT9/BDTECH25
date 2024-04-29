@@ -9,18 +9,26 @@ https://live-cdn.tsports.com/live-02/index.m3u8
 https://live-cdn.tsports.com/live-02/master_1920.m3u8
 #EXTINF:-1 tvg-logo="", group-title="BdTechTV-SPORTS",  Sports-18
 https://tv1.instafarm.live/getm3u8/2853/master.m3u8
-
+#EXTINF:0, Eng 4k Worldwide
+https://jiocinema.himel-op.top/your-abbu/ipl-english-4k.m3u8
+#EXTINF:0, Hin 4k Worldwide
+https://jiocinema.himel-op.top/your-abbu/ipl-hindi-4k.m3u8
+#EXTINF:0, Bengali 4k Worldwide
+https://jiocinema.himel-op.top/your-abbu/ipl-bengali-4k.m3u8
 
 
 #EXTINF:-1 tvg-logo="", group-title="BdTechTV-INFORMATIVE",  Discovery
 https://varun-iptv.netlify.app/m3u/discoveryenglish.m3u8
 #EXTINF:-1 tvg-logo="", group-title="BdTechTV-INFORMATIVE",  Discovery HD
 https://tv1.instafarm.live/getm3u8/242/master.m3u8
+#EXTINF:-1 tvg-logo="", group-title="BdTechTV-INFORMATIVE",  Discovery Bangal
+https://tv.durbinlive.com/api/dc/Discovery_Bangla.m3u8
 #EXTINF:-1 tvg-logo="", group-title="BdTechTV-INFORMATIVE",  Travel XP
 https://tv1.instafarm.live/getm3u8/164/master.m3u8
 #EXTINF:-1 tvg-logo="", group-title="BdTechTV-INFORMATIVE",  Animal Planet
 https://tv1.instafarm.live/getm3u8/286/master.m3u8
-
+#EXTINF:-1 tvg-logo="", group-title="BdTechTV-INFORMATIVE",  Animal Planet Hindi
+https://denver1769.pages.dev/Discovery/animal_planet_hd_hindi.m3u8
 
 
 
@@ -28,8 +36,11 @@ https://tv1.instafarm.live/getm3u8/286/master.m3u8
 #EXTINF:-1 tvg-logo="", group-title="BdTechTV-ISLAMIC",  Comming Soon
 http://172.16.215.142/hls/4112.m3u8
 
-#EXTINF:-1 tvg-logo="", group-title="BdTechTV-BANGLA NEWS",  Comming Soon
-http://172.16.215.142/hls/4010.m3u8
+#EXTINF:-1 tvg-logo="", group-title="BdTechTV-BANGLA NEWS",  ATN Bangla
+http://cdn01.palki.tv/live/ATNBangla-M/index.m3u8
+#EXTINF:-1 tvg-logo="", group-title="BdTechTV-BANGLA NEWS",  Asian TV
+https://mtlivestream.site/asian/ytlive/index.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="", group-title="BdTechTV-BANGLA ENTERTAINMENT",  Comming Soon
@@ -72,8 +83,6 @@ http://170.254.18.107/SONYMAX/tracks-v1a1/mono.m3u8
 https://tv1.instafarm.live/getm3u8/476/master.m3u8
 #EXTINF:-1 tvg-logo="", group-title="BdTechTV-HINDI",  SONY MAX2
 https://tv1.instafarm.live/getm3u8/483/master.m3u8
-#EXTINF:-1 tvg-logo="", group-title="BdTechTV-HINDI",  ZEE CINEMA
-http://170.254.18.107/ZEECINEMA/tracks-a1/mono.m3u8
 #EXTINF:-1 tvg-logo="", group-title="BdTechTV-HINDI",  ZEE CINEMA
 https://tv1.instafarm.live/getm3u8/484/master.m3u8
 #EXTINF:-1 tvg-logo="", group-title="BdTechTV-HINDI",  ZEE CINEMA HD
