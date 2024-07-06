@@ -107,6 +107,10 @@ http://cdn1.discoveryftp.net/Movies/Bangla/2023/MR-9%20Do%20or%20Die/MR-9%20Do%2
 #EXTINF:-1 tvg-logo="", group-title="BdTechTV-MOVIE", Veer-Zaara
 #EXTVLCOPT:network-caching=1000
 http://cdn1.discoveryftp.net/Movies/Hindi/2004/Veer-Zaara/Veer%20Zaara%202004%20Hindi%201080p%20BluRay%20x264%20DD%205.1%20MSubs%20-%20LOKiHD%20-%20Telly.mkv
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="", group-title="BdTechTV-MOVIE", Elaach - Biggest FTP File Server.mp4
+file:///E:/BANGLA%20TV%20SERIES/Elaach%20-%20Biggest%20FTP%20File%20Server.mp4
         
 
         
