@@ -88,6 +88,13 @@ https://tv1.instafarm.live/getm3u8/1325/master.m3u8
 http://172.16.215.142/hls/5024.m3u8
 
 
+#EXTM3U
+#EXTINF:-1 tvg-logo="", group-title="BdTechTV-MOVIE", Kabhi Alvida Naa Kehna
+#EXTVLCOPT:network-caching=1000
+http://cdn1.discoveryftp.net/Movies/Hindi/2006/Kabhi%20Alvida%20Naa%20Kehna/Kabhi%20Alvida%20Naa%20Kehna%20%282006%29%20%281080p%20BluRay%20x265%20Natty%29.mkv
+        
+
+
 #EXTINF:-1 tvg-logo="", group-title="BdTechTV-HINDI",  SONY MAX
 https://tv1.instafarm.live/getm3u8/289/master.m3u8
 #EXTINF:-1 tvg-logo="", group-title="BdTechTV-HINDI",  SONY MAX
