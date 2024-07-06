@@ -97,6 +97,13 @@ http://cdn1.discoveryftp.net/Movies/Hindi/2006/Kabhi%20Alvida%20Naa%20Kehna/Kabh
 #EXTINF:-1 tvg-logo="", group-title="BdTechTV-MOVIE", Champion
 #EXTVLCOPT:network-caching=1000
 http://cdn1.discoveryftp.net/Movies/Bangla/2003/Champion/Champion.2003.1080p.JC.WEB-DL.Bengali.AAC2.0.H.264.7.5GB-MLSBD.mkv
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="", group-title="BdTechTV-MOVIE", MR-9 Do or Die
+#EXTVLCOPT:network-caching=1000
+http://cdn1.discoveryftp.net/Movies/Bangla/2023/MR-9%20Do%20or%20Die/MR-9%20Do%20or%20Die%20%282023%29%20Dual%20Audio%20%5BBengali-Hindi%5D%20AMZN%201080p.mkv
+        
+
         
         
 
