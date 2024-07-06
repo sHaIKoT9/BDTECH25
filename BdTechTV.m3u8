@@ -18,6 +18,29 @@ https://tv1.instafarm.live/getm3u8/1918/master.m3u8
 https://tv1.instafarm.live/getm3u8/2779/master.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8neLbDd.jpg" group-title="* Bangladeshi",EKATTOR TV HD
+https://ythls.armelin.one/channel/UCtqvtAVmad5zywaziN6CbfA.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GOamt6U.jpg" group-title="* Bangladeshi",ZEE Bangla
+http://filex.tv:8080/Amin-stream/12341234/288400
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yGgvoxY.png" group-title="* Bangladeshi",ASIAN TV
+https://mtlivestream.site/asian/ytlive/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GFWEXG5.png" group-title="* Sports",SONY LIV TV
+https://dai.google.com/linear/hls/event/FWf8sA8dTwCRjczTV9uy-A/master.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" group-title="* Bangladeshi",Star Jalsha
+https://fsd3.short.gy/Star_jalsha.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6oKEETc.png" group-title="* Sports",T Sports
+https://edge01.iptv.digijadoo.net/live/t_sports/playlist.m3u8?md5=-WkmVdI7EKZQsELiewxpeA&expires=1720158023&user=ff39d05fef0749028389f28943b73363 
+#EXTINF:-1 tvg-logo="https://imgur.com/j9vWjnp.png" group-title="* Bangladeshi",ZEE Bangla Cinema
+http://filex.tv:8080/Amin-stream/12341234/288399 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2PQfcOh.png" group-title="* Bangladeshi",Star Jalsha Movies
+http://filex.tv:8080/Amin-stream/12341234/288396 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6oKEETc.png" group-title="* Sports",T Sports HD
+http://filex.tv:8080/Amin-stream/12341234/288303 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" group-title="* Bangladeshi",Star Jalsha FHD
+http://filex.tv:8080/Amin-stream/12341234/288301 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GFWEXG5.png" group-title="* Sports",SONY LIV Multi
+https://dai.google.com/ssai/event/oZNVxALASVyYS4HMtTpRCw/master.m3u8
+
 
 #EXTINF:-1 tvg-logo="", group-title="BdTechTV-INFORMATIVE",  Discovery HD
 https://varun-iptv.netlify.app/m3u/discoveryenglish.m3u8
