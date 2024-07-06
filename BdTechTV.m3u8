@@ -301,6 +301,45 @@ http://cdn2.discoveryftp.net//Foreign%20Tv%20Series/Van%20Helsing%20%282016%29/S
 #EXTINF:-1 tvg-logo="", group-title="BdTechTV-SERIES", van.helsing.s04e06.720p.web.h264-tbs[eztv].mkv
 #EXTVLCOPT:network-caching=1000
 http://cdn2.discoveryftp.net//Foreign%20Tv%20Series/Van%20Helsing%20%282016%29/Season%204/van.helsing.s04e06.720p.web.h264-tbs%5Beztv%5D.mkv
+
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="", group-title="BdTechTV-SERIES", Mirzapur.S01E01.JHANDU.1080p.AMZN.WEB-DL.DD+5.1.H.264-playWEB.mkv
+#EXTVLCOPT:network-caching=1000
+http://cdn2.discoveryftp.net//Hindi%20Web%20Series/Mirzapur%20%282018%29/Season%201/Mirzapur.S01E01.JHANDU.1080p.AMZN.WEB-DL.DD+5.1.H.264-playWEB.mkv
+        
+#EXTINF:-1 tvg-logo="", group-title="BdTechTV-SERIES", Mirzapur.S01E02.GOODA.1080p.AMZN.WEB-DL.DD+5.1.H.264-playWEB.mkv
+#EXTVLCOPT:network-caching=1000
+http://cdn2.discoveryftp.net//Hindi%20Web%20Series/Mirzapur%20%282018%29/Season%201/Mirzapur.S01E02.GOODA.1080p.AMZN.WEB-DL.DD+5.1.H.264-playWEB.mkv
+        
+
+#EXTINF:-1 tvg-logo="", group-title="BdTechTV-SERIES", Mirzapur.S01E03.WAFADAR.1080p.AMZN.WEB-DL.DD+5.1.H.264-playWEB.mkv
+#EXTVLCOPT:network-caching=1000
+http://cdn2.discoveryftp.net//Hindi%20Web%20Series/Mirzapur%20%282018%29/Season%201/Mirzapur.S01E03.WAFADAR.1080p.AMZN.WEB-DL.DD+5.1.H.264-playWEB.mkv
+        
+#EXTINF:-1 tvg-logo="", group-title="BdTechTV-SERIES", Mirzapur.S01E04.VIRGINITY.1080p.AMZN.WEB-DL.DD+5.1.H.264-playWEB.mkv
+#EXTVLCOPT:network-caching=1000
+http://cdn2.discoveryftp.net//Hindi%20Web%20Series/Mirzapur%20%282018%29/Season%201/Mirzapur.S01E04.VIRGINITY.1080p.AMZN.WEB-DL.DD+5.1.H.264-playWEB.mkv
+        
+#EXTINF:-1 tvg-logo="", group-title="BdTechTV-SERIES", Mirzapur.S01E05.BHAUKAL.1080p.AMZN.WEB-DL.DD+5.1.H.264-playWEB.mkv
+#EXTVLCOPT:network-caching=1000
+http://cdn2.discoveryftp.net//Hindi%20Web%20Series/Mirzapur%20%282018%29/Season%201/Mirzapur.S01E05.BHAUKAL.1080p.AMZN.WEB-DL.DD+5.1.H.264-playWEB.mkv
+        
+#EXTINF:-1 tvg-logo="", group-title="BdTechTV-SERIES", Mirzapur.S01E06.BARFI.1080p.AMZN.WEB-DL.DD+5.1.H.264-playWEB.mkv
+#EXTVLCOPT:network-caching=1000
+http://cdn2.discoveryftp.net//Hindi%20Web%20Series/Mirzapur%20%282018%29/Season%201/Mirzapur.S01E06.BARFI.1080p.AMZN.WEB-DL.DD+5.1.H.264-playWEB.mkv
+        
+#EXTINF:-1 tvg-logo="", group-title="BdTechTV-SERIES", Mirzapur.S01E07.LIONS.OF.MIRZAPUR.1080p.AMZN.WEB-DL.DD+5.1.H.264-playWEB.mkv
+#EXTVLCOPT:network-caching=1000
+http://cdn2.discoveryftp.net//Hindi%20Web%20Series/Mirzapur%20%282018%29/Season%201/Mirzapur.S01E07.LIONS.OF.MIRZAPUR.1080p.AMZN.WEB-DL.DD+5.1.H.264-playWEB.mkv
+        
+#EXTINF:-1 tvg-logo="", group-title="BdTechTV-SERIES", Mirzapur.S01E08.TANDAV.1080p.AMZN.WEB-DL.DD+5.1.H.264-playWEB.mkv
+#EXTVLCOPT:network-caching=1000
+http://cdn2.discoveryftp.net//Hindi%20Web%20Series/Mirzapur%20%282018%29/Season%201/Mirzapur.S01E08.TANDAV.1080p.AMZN.WEB-DL.DD+5.1.H.264-playWEB.mkv
+        
+#EXTINF:-1 tvg-logo="", group-title="BdTechTV-SERIES", Mirzapur.S01E09.YOGYA.1080p.AMZN.WEB-DL.DD+5.1.H.264-playWEB.mkv
+#EXTVLCOPT:network-caching=1000
+http://cdn2.discoveryftp.net//Hindi%20Web%20Series/Mirzapur%20%282018%29/Season%201/Mirzapur.S01E09.YOGYA.1080p.AMZN.WEB-DL.DD+5.1.H.264-playWEB.mkv
         
 
         
